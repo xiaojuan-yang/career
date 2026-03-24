@@ -77,6 +77,7 @@ layout: null
     <ul class="pub-list">
         <li><strong>Yang, G. X.</strong> (R&R). Foundational vs. Functional: Competing Logics of Digital Sovereignty in China and the EU. <em>International Affairs</em>.</li>
         <li><strong>Yang, G. X.</strong> (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <em>Dialogues on Digital Society</em>.</li>
+        <li><strong>Yang, G. X.</strong> (2024). World Internet Conference and China’s Promotion of Cyber Sovereignty. <em>ELTE Law Journal</em>.</li>
         <li><strong>Yang, G. X.</strong> (2026). Geopolitics and the Chilling Effect: Chinese Academic Response to the Russia-Ukraine War. In <em>Legal and Ethical Issues of Chilling Effect</em>, Springer.</li>
         <li><strong>Yang, G. X.</strong> (2025). Sino-Russian Cybersecurity Cooperation and the Digital Silk Road. In <em>Routledge Handbook of China’s BRI</em>.</li>
     </ul>
