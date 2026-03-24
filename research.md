@@ -58,10 +58,10 @@ layout: null
         </div>
         <div class="project-outputs">
             <span class="output-label">Selected Outputs</span>
-            <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, by Springer International Publishing, 2026).</div>
+            <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect</span>, Springer International Publishing, 2026).</div>
             <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
             <div class="output-item">Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</div>
-            <div class="output-item">Findings from this project have been presented at premier global venues, including EISA (2023, 2024, 2025), APSA (2024, 2025), IPSA (2025), and ECPR (2025).</div>
+            <div class="output-item">Findings from this project have been presented at premier global venues, including <strong>EISA</strong> (2023, 2024, 2025), <strong>APSA</strong> (2024, 2025), <strong>IPSA</strong> (2025), and <strong>ECPR</strong> (2025).</div>
         </div>
     </div>
 </section>
@@ -82,7 +82,7 @@ layout: null
             <span class="output-label">Selected Outputs</span>
             <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&amp;R at <span class="venue">International Affairs</span>).</div>
             <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
-            <div class="output-item">Presentation at <strong>Findings from this project have been presented at premier global venues, including GigaNet (2025), IPSA (2025), and ECPR (2025).</div>
+            <div class="output-item">Findings from this project have been presented at premier global venues, including <strong>GigaNet</strong> (2025), <strong>IPSA</strong> (2025), and <strong>ECPR</strong> (2025).</div>
         </div>
     </div>
 
@@ -118,7 +118,6 @@ layout: null
             Policy-oriented research conducted for the <strong>Ministry of Finance of China</strong>, focusing on the cooperation of climate financing among major emerging economies.
         </div>
     </div>
-
 
 </section>
 
