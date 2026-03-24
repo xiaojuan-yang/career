@@ -43,9 +43,3 @@ As a researcher, I employ **NLP and LLM-based methodologies** to unpack complex 
 *Expected PhD Completion: April 2026*
 
 
-
-
-Navigate to:
-- [Education and Trainings](./Education%20and%20Trainings/)
-- [Projects and Skills](./Projects%20and%20Skills/)
-
