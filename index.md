@@ -88,17 +88,17 @@ layout: null
 </div>
 
 <h3>About Me</h3>
-<p>I am an interdisciplinary researcher and consultant bridging the gap between <strong>International Relations theory</strong> and <strong>Computational Social Science</strong>[cite: 4, 19]. My work explores the intersection of Cyber Governance, Digital Sovereignty, and Sino-Russian strategic alignment[cite: 8, 33].</p>
+<p>I am an interdisciplinary researcher and consultant bridging the gap between <strong>International Relations theory</strong> and <strong>Computational Social Science</strong>. My work explores the intersection of Cyber Governance, Digital Sovereignty, and Sino-Russian strategic alignment.</p>
 
-<p>As a researcher, I employ NLP and LLM-based methodologies to unpack complex political discourses[cite: 21, 28]. As a consultant, I translate these high-level insights into actionable intelligence for digital trade, market entry, and strategic communication[cite: 425].</p>
+<p>As a researcher, I employ NLP and LLM-based methodologies to unpack complex political discourses. As a consultant, I translate these high-level insights into actionable intelligence for digital trade, market entry, and strategic communication.</p>
 
 <h3>Core Expertise</h3>
 <ul>
-    <li><strong>Academic:</strong> Global Cyber Governance, Sino-Russian Relations, Digital Authoritarianism[cite: 19].</li>
-    <li><strong>Technical:</strong> NLP Pipeline Development, Large-scale Textual Analysis, Python, SQL[cite: 21, 22].</li>
-    <li><strong>Consulting:</strong> Digital Trade Auditing, Cross-border Market Strategy, Multi-language Content Operations[cite: 64, 500].</li>
+    <li><strong>Academic:</strong> Global Cyber Governance, Sino-Russian Relations, Digital Authoritarianism.</li>
+    <li><strong>Technical:</strong> NLP Pipeline Development, Large-scale Textual Analysis, Python, SQL.</li>
+    <li><strong>Consulting:</strong> Digital Trade Auditing, Cross-border Market Strategy, Multi-language Content Operations.</li>
 </ul>
 
 <p style="text-align: center; color: #999; font-size: 0.8em; margin-top: 50px;">
-    &copy; 2026 Grace X. Yang. Expected PhD Completion: April 2026[cite: 6].
+    &copy; 2026 Grace X. Yang. Expected PhD Completion: April 2026.
 </p>

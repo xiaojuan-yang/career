@@ -39,8 +39,8 @@ layout: null
             Authored a 60-page comprehensive report on international cooperation and policy reform.
         </div>
         <div class="project-card">
-            <strong>International News Curator | CFIS (2012–2014)</strong> [cite: 65]<br>
-            Designed and managed the official website for the China Foundation for International Studies. [cite: 65]
+            <strong>International News Curator | CFIS (2012–2014)</strong> <br>
+            Designed and managed the official website for the China Foundation for International Studies.
         </div>
     </div>
 </body>

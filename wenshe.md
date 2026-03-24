@@ -19,12 +19,12 @@ layout: null
     <h1>Wenshe (文社): Academic Leadership</h1>
     
     <div class="highlight">
-        Founded and curate an independent academic network of **500+ global scholars** in Humanities and Social Sciences. [cite: 67, 68]
+        Founded and curate an independent academic network of **500+ global scholars** in Humanities and Social Sciences.
     </div>
 
-    <p>As the **Co-founder & Community Manager**, I lead initiatives to foster interdisciplinary dialogue[cite: 67]:</p>
+    <p>As the **Co-founder & Community Manager**, I lead initiatives to foster interdisciplinary dialogue:</p>
     <ul>
-        <li><strong>Digital Seminars:</strong> Organized 50+ workshops on digital governance and international relations. [cite: 69]</li>
-        <li><strong>Strategic Support:</strong> Providing publication strategy and academic retreat organization for overseas PhD candidates. [cite: 68, 69]</li>
+        <li><strong>Digital Seminars:</strong> Organized 50+ workshops on digital governance and international relations. </li>
+        <li><strong>Strategic Support:</strong> Providing publication strategy and academic retreat organization for overseas PhD candidates. </li>
     </ul>
 </body>

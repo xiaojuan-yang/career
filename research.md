@@ -27,21 +27,21 @@ layout: null
     <div class="project-box">
         <strong><span class="tag-research">Dissertation</span> Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion in Global Cyber Governance</strong> 
         <p style="margin-top: 10px; font-size: 0.95em; color: #555;">
-            An independent, self-funded doctoral project at <strong>Freie Universität Berlin</strong> investigating the strategic alignment between China and Russia in digital norm-setting[cite: 6, 7, 8].
+            An independent, self-funded doctoral project at <strong>Freie Universität Berlin</strong> investigating the strategic alignment between China and Russia in digital norm-setting.
         </p>
     </div>
 
     <div class="project-box">
-        <strong><span class="tag-research">Collaborative</span> Digital Trade Integration Database</strong> [cite: 64]
+        <strong><span class="tag-research">Collaborative</span> Digital Trade Integration Database</strong>
         <p style="margin-top: 10px; font-size: 0.95em; color: #555;">
             <strong>Hertie School | CIVICA</strong> (2021–2022). Performed multi-country data auditing and analysis of China’s digital trade practices for this DAAD-funded European university alliance project.
         </p>
     </div>
 
     <div class="project-box">
-        <strong><span class="tag-research">Fellowship</span> Digital Sovereignty in Comparative Perspective</strong> [cite: 62]
+        <strong><span class="tag-research">Fellowship</span> Digital Sovereignty in Comparative Perspective</strong>
         <p style="margin-top: 10px; font-size: 0.95em; color: #555;">
-            <strong>University of Salerno</strong> (2024–2025). Independent research on state authority and fundamental rights in cyberspace, funded by EU-NextGenerationEU (PRIN 2022)[cite: 40, 61, 62].
+            <strong>University of Salerno</strong> (2024–2025). Independent research on state authority and fundamental rights in cyberspace, funded by EU-NextGenerationEU (PRIN 2022).
         </p>
     </div>
 
@@ -49,21 +49,21 @@ layout: null
 
     <h3>Peer-Reviewed Journal Articles</h3>
     <div class="pub-item">
-        * **Yang, G. X.** (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <em>Dialogues on Digital Society</em>, Sage[cite: 25, 26].
+        * **Yang, G. X.** (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <em>Dialogues on Digital Society</em>, Sage.
     </div>
     <div class="pub-item">
-        * **Yang, G. X.** (R&R). Foundational vs. Functional: Competing Logics of Digital Sovereignty. <em>International Affairs</em>[cite: 27].
+        * **Yang, G. X.** (R&R). Foundational vs. Functional: Competing Logics of Digital Sovereignty. <em>International Affairs</em>.
     </div>
     <div class="pub-item">
-        * **Yang, G. X.** (2024). World Internet Conference and China’s Promotion of Cyber Sovereignty. <em>ELTE Law Journal</em>[cite: 29].
+        * **Yang, G. X.** (2024). World Internet Conference and China’s Promotion of Cyber Sovereignty. <em>ELTE Law Journal</em>.
     </div>
 
     <h3>Book Chapters</h3>
     <div class="pub-item">
-        * **Yang, G. X.** (2026). Geopolitics, Knowledge Production and the Chilling Effect: Chinese Academic Response to the Russia-Ukraine War. In <em>Legal and Ethical Issues of Chilling Effect</em>, Springer International[cite: 31, 32].
+        * **Yang, G. X.** (2026). Geopolitics, Knowledge Production and the Chilling Effect: Chinese Academic Response to the Russia-Ukraine War. In <em>Legal and Ethical Issues of Chilling Effect</em>, Springer International.
     </div>
     <div class="pub-item">
-        * **Yang, G. X.** (2025). Sino-Russian Cybersecurity Cooperation and Its Implications for the Digital Silk Road in Eurasia. In <em>Routledge Handbook of China’s Belt and Road Initiative in Eurasia</em>, Routledge[cite: 33, 34].
+        * **Yang, G. X.** (2025). Sino-Russian Cybersecurity Cooperation and Its Implications for the Digital Silk Road in Eurasia. In <em>Routledge Handbook of China’s Belt and Road Initiative in Eurasia</em>, Routledge.
     </div>
 
     <p style="text-align: center; color: #999; font-size: 0.8em; margin-top: 50px;">
