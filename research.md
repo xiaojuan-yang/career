@@ -165,7 +165,7 @@ layout: null
         </div>
         <span class="project-meta">B.A. Thesis Project | Zhejiang Normal University (ZJNU)</span>
         <div class="project-desc">
-            Early fundamental research investigating international media narratives and framing strategies on China.
+            Early fundamental research investigating international media narratives and framing strategies on China reporting.
         </div>
     </div>
 
