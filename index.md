@@ -77,7 +77,7 @@ layout: null
 
 <div class="highlight-card">
     <span class="tag-pill">Selected Publication</span>
-    <div>"Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War" - <strong>Legal and Ethical Issues of Chilling Effect by Springer International (2026) </strong>.</div>
+    <div>"Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War" - book chapter in <strong>Legal and Ethical Issues of Chilling Effect by Springer International (2026) </strong>.</div>
 </div>
 
 <div class="highlight-card">
