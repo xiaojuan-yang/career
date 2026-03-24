@@ -13,6 +13,7 @@ layout: null
         .nav a { font-weight: 600; color: #34495e; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; }
 
         .section-title { font-size: 1.6em; font-weight: 700; margin: 60px 0 30px 0; color: #1a1a1a; text-transform: uppercase; letter-spacing: 1px; border-left: 5px solid #2c3e50; padding-left: 20px; }
+        .portfolio-section { margin-bottom: 80px; }
         
         /* Maria 风格的项目块 */
         .project-container { margin-bottom: 50px; }
@@ -37,7 +38,7 @@ layout: null
 <div class="nav">
     <a href="index.html">Home</a>
     <a href="research.html">Research Portfolio</a>
-    <a href="experience.html">Consultancy</a>
+    <a href="consultancy.html">Consultancy</a>
 </div>
 
 <h1 style="font-size: 2.5em; letter-spacing: -1px;">Research Portfolio</h1>
@@ -45,70 +46,82 @@ layout: null
     My research integrates <strong>International Relations theory</strong> with <strong>Computational Social Science</strong> to investigate the contestation of digital norms and the evolving logics of global cyber governance.
 </p>
 
-<div class="section-title">Independent Research Projects</div>
+<section class="portfolio-section">
+    <div class="section-title">Independent Research Projects</div>
 
-<div class="project-container">
-    <div class="project-header">
-        <span class="project-title">Digital Sovereignty in Comparative Perspective</span>
-        <span class="project-date">2024 – 2025</span>
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</span>
+            <span class="project-date">2020 – 2026</span>
+        </div>
+        <span class="project-meta">PhD Dissertation | Freie Universität Berlin</span>
+        <div class="project-desc">
+            An investigation into the strategic alignment between China and Russia in global cyber governance.
+        </div>
+        <div class="project-outputs">
+            <span class="output-label">Selected Outputs</span>
+            <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, 2026).</div>
+            <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
+            <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order: Implications for the Digital Silk Road" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
+            <div class="output-item">Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</div>
+            <div class="output-item">Draft paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
+            <div class="output-item">Draft paper presented at <strong>IPSA World Congress</strong> (Seoul 2025).</div>
+            <div class="output-item">Draft paper presented at <strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
+            <div class="output-item">Draft paper presented at <strong>Royal Geographical Society Annual Conference</strong> (Virtual 2020).</div>
+        </div>
     </div>
-    <span class="project-meta">Funded by: Italian Ministry of University and Research (PRIN 2022) / EU-NextGenerationEU</span>
-    <div class="project-desc">
-        Based at the <strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace. I developed a comparative framework to analyze how different jurisdictions balance digital sovereignty with fundamental rights.
-    </div>
-    <div class="project-outputs">
-        <span class="output-label">Selected Outputs</span>
-        <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&R at <span class="venue">International Affairs</span>).</div>
-        <div class="output-item">Invited Talk: PRIN Research Retreat, University of Padova (2025).</div>
-        <div class="output-item">Workshop Presentation: PRIN Project Workshop, University of Salerno (2024).</div>
-    </div>
-</div>
 
-<div class="project-container">
-    <div class="project-header">
-        <span class="project-title">Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</span>
-        <span class="project-date">2020 – 2026</span>
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">Digital Sovereignty in Comparative Perspective</span>
+            <span class="project-date">2024 – 2025</span>
+        </div>
+        <span class="project-meta">Funded by: Italian Ministry of University and Research (PRIN 2022) / EU-NextGenerationEU</span>
+        <div class="project-desc">
+            Based at the <strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace. I developed a comparative framework to analyze how different jurisdictions balance digital sovereignty with fundamental rights.
+        </div>
+        <div class="project-outputs">
+            <span class="output-label">Selected Outputs</span>
+            <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&amp;R at <span class="venue">International Affairs</span>).</div>
+            <div class="output-item">Draft paper presented at <strong>ECPR</strong> (2025).</div>
+            <div class="output-item">Draft paper presented at <strong>Giganet</strong> (2025).</div>
+            <div class="output-item">Draft paper presented at <strong>PRIN Research Retreat, University of Padova</strong> (2025).</div>
+            <div class="output-item">Draft paper presented at <strong>PRIN Project Workshop, University of Salerno</strong> (2024).</div>
+        </div>
     </div>
-    <span class="project-meta">PhD Dissertation | Freie Universität Berlin</span>
-    <div class="project-desc">
-        An investigation into the strategic narrative alignment between China and Russia in global cyber governance. This project utilizes customized <strong>NLP pipelines</strong> to track twenty years of discourse evolution and norm entrepreneurship.
-    </div>
-    <div class="project-outputs">
-        <span class="output-label">Selected Outputs</span>
-        <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
-        <div class="output-item">Conference Paper: <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
-        <div class="output-item">Conference Paper: <strong>IPSA World Congress</strong> (Seoul 2025).</div>
-    </div>
-</div>
+</section>
 
-<div class="section-title">Collaborative & Policy Research</div>
+<section class="portfolio-section">
+    <div class="section-title">Collaborative &amp; Policy Research</div>
 
-<div class="project-container">
-    <div class="project-header">
-        <span class="project-title">Digital Trade Integration Database</span>
-        <span class="project-date">2021 – 2022</span>
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">Digital Trade Integration Database</span>
+            <span class="project-date">2021 – 2022</span>
+        </div>
+        <span class="project-meta">Funded by: DAAD / CIVICA | Hertie School</span>
+        <div class="project-desc">
+            A pan-European collaborative effort to audit digital trade regulations. I was responsible for the systematic data collection and policy auditing of China’s digital trade regulatory landscape.
+        </div>
     </div>
-    <span class="project-meta">Funded by: DAAD / CIVICA | Hertie School</span>
-    <div class="project-desc">
-        A pan-European collaborative effort to audit digital trade regulations. I was responsible for the systematic data collection and policy auditing of China’s digital trade regulatory landscape.
-    </div>
-</div>
 
-<div class="project-container">
-    <div class="project-header">
-        <span class="project-title">Climate Financing in the BASIC Countries</span>
-        <span class="project-date">2014</span>
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">Climate Financing in the BASIC Countries</span>
+            <span class="project-date">2014</span>
+        </div>
+        <span class="project-meta">Funded by: China Clean Development Mechanism Fund (CCDMF)</span>
+        <div class="project-desc">
+            Policy-oriented research conducted for the <strong>Ministry of Finance of China</strong>, focusing on the evolution of international welfare cooperation and climate financing mechanisms among major emerging economies.
+        </div>
     </div>
-    <span class="project-meta">Funded by: China Clean Development Mechanism Fund (CCDMF)</span>
-    <div class="project-desc">
-        Policy-oriented research conducted for the <strong>Ministry of Finance of China</strong>, focusing on the evolution of international welfare cooperation and climate financing mechanisms among major emerging economies.
-    </div>
-</div>
+</section>
 
-<div class="section-title">Academic Service & Citizenship</div>
+<div class="section-title">Academic Service</div>
 <div style="margin-left: 20px;">
-    <p>• <strong>Invited Reviewer:</strong> <em>The Chinese Journal of International Politics</em> (Oxford University Press, 2025).</p>
+    <p>• <strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</p>
     <p>• <strong>Panel Discussant:</strong> IPSA World Congress, Seoul (2025).</p>
+    <p>• <strong>Co-founder:</strong> Wenshe Academic Community (2021-).</p>
     <p>• <strong>Pedagogical Training:</strong> Higher Education Teaching Certificate, Freie Universität Berlin (Expected 2026).</p>
 </div>
 

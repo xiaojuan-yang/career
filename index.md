@@ -61,11 +61,11 @@ layout: null
 <div class="nav">
     <a href="index.html">Home</a>
     <a href="research.html">Research</a>
-    <a href="experience.html">Consultancy</a>
+    <a href="consultancy.html">Consultancy</a>
 </div>
 
 <div class="vision-text">
-    I investigate how emerging technologies reshape the foundational norms of global politics. By bridging <strong>International Relations theory</strong> with <strong>Computational Social Science</strong>, my work provides data-driven insights into Sino-Russian strategic alignment and the competing logics of digital sovereignty.
+    I study how digital technologies reconfigure sovereignty and drive norm contestation in global governance. Combining <strong>International Relations theory</strong> with <strong>Computational Social Science</strong>, I analyze the rise of cyber sovereignty, focusing on Sino-Russian alignment and the competing logics shaping the global digital order.
 </div>
 
 <div class="section-title">Recent Highlights</div>
