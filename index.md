@@ -43,7 +43,7 @@ layout: null
             <a href="mailto:Graceyang_pro@outlook.com">Email</a>
             <a href="https://www.linkedin.com/in/xiaojuan-yang/">LinkedIn</a>
             <a href="https://github.com/xiaojuan-yang">GitHub</a>
-            <a href="https://scholar.google.com/">Google Scholar</a>
+            <a href="https://scholar.google.de/citations?user=enR94HEAAAAJ&hl=en">Google Scholar</a>
         </div>
     </div>
 </div>
