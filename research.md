@@ -88,17 +88,6 @@ layout: null
 
     <div class="project-container">
         <div class="project-header">
-            <span class="project-title">Computational Analysis of Digital Sovereignty Discourse</span>
-            <span class="project-date">2025</span>
-        </div>
-        <span class="project-meta">M.A. Thesis Project | TU Darmstadt</span>
-        <div class="project-desc">
-            A methodological focus project exploring text-as-data approaches. This research utilized advanced computational techniques to comparatively analyze the structural differences between Chinese and EU digital sovereignty narratives.
-        </div>
-    </div>
-
-    <div class="project-container">
-        <div class="project-header">
             <span class="project-title">Digital Trade Integration Database</span>
             <span class="project-date">2021 – 2022</span>
         </div>
