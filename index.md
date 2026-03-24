@@ -50,7 +50,7 @@ layout: null
             <a href="mailto:Graceyang_pro@outlook.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             <a href="https://www.linkedin.com/in/xiaojuan-yang/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
             <a href="https://github.com/xiaojuan-yang" title="GitHub"><i class="fa-brands fa-github"></i></a>
-            <a href="https://scholar.google.de/citations?user=enR94HEAAAAJ&hl=en" title="Google Scholar"><i class="fa-brands fa-google-scholar"></i></a>
+            <a href="https://scholar.google.de/citations?user=enR94HEAAAAJ&hl=en" title="Google Scholar"><i class="fa-solid fa-graduation-cap"></i></a>
         </div>
     </div>
 </div>
