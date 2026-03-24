@@ -75,7 +75,7 @@ layout: null
 <ul>
     <li><strong>Computational IR:</strong> M.A. in Data and Discourse Studies (TU Darmstadt), focusing on text-as-data methods.</li>
     <li><strong>Global Policy:</strong> Double M.A. in International Relations (LUISS Italy & CFAU China).</li>
-    <li><strong>Diplomatic Foundations:</strong> Double Bachelor’s in Diplomatic Studies (CFAU) and English Literature.</li>
+    <li><strong>Diplomatic Foundations:</strong> Double Bachelor’s in Diplomatic Studies (CFAU) and English Literature (ZJNU).</li>
 </ul>
 
 <p style="margin-top: 60px; color: #999; font-size: 0.85em; text-align: center;">
