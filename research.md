@@ -3,86 +3,109 @@ layout: null
 ---
 <head>
     <meta charset="UTF-8">
-    <title>Research Portfolio | Grace X. Yang</title>
+    <title>Research & Impact | Grace X. Yang</title>
     <style>
-        body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 850px; margin: 60px auto; padding: 0 40px; }
+        body { font-family: "Inter", "Helvetica Neue", Helvetica, sans-serif; line-height: 1.6; color: #333; max-width: 850px; margin: 60px auto; padding: 0 40px; }
         .nav { border-bottom: 1px solid #eee; padding-bottom: 15px; margin-bottom: 30px; text-align: center; }
-        .nav a { margin: 0 15px; text-decoration: none; color: #444; font-weight: 500; }
+        .nav a { margin: 0 15px; text-decoration: none; color: #444; font-weight: 600; }
         
-        .section-title { display: flex; align-items: center; justify-content: space-between; border-bottom: 2px solid #222; margin-top: 50px; margin-bottom: 25px; }
-        h2 { margin: 0; font-size: 1.6em; text-transform: uppercase; letter-spacing: 1px; }
+        h2 { border-left: 4px solid #0056b3; padding-left: 15px; margin-top: 45px; text-transform: uppercase; font-size: 1.3em; letter-spacing: 0.5px; }
+        .project-card { background: #fdfdfd; border: 1px solid #eee; padding: 25px; border-radius: 8px; margin-bottom: 25px; position: relative; }
+        .year-tag { position: absolute; top: 25px; right: 25px; font-size: 0.85em; color: #999; font-weight: bold; }
         
-        .project-card { background: #fff; border: 1px solid #efefef; padding: 25px; border-radius: 4px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
-        .project-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; }
-        .project-title { font-size: 1.25em; color: #0056b3; font-weight: bold; flex: 1; }
-        .project-meta { font-size: 0.85em; color: #888; text-align: right; margin-left: 20px; }
-        
-        .tag { font-size: 0.75em; padding: 2px 8px; border-radius: 12px; margin-right: 5px; font-weight: bold; text-transform: uppercase; }
-        .tag-funding { background: #e3f2fd; color: #1976d2; }
-        .tag-method { background: #f3e5f5; color: #7b1fa2; }
-        .tag-status { background: #e8f5e9; color: #2e7d32; }
-
-        .deliverables { margin-top: 15px; font-size: 0.9em; background: #fcfcfc; padding: 10px; border-left: 3px solid #eee; }
-        .pub-list { list-style: none; padding: 0; }
-        .pub-list li { margin-bottom: 15px; padding-left: 15px; border-left: 2px solid #eee; }
+        .conf-group { margin-bottom: 20px; }
+        .conf-group h3 { font-size: 1.1em; color: #0056b3; margin-bottom: 10px; border-bottom: 1px solid #f0f0f0; }
+        .conf-item { margin-bottom: 8px; font-size: 0.95em; padding-left: 15px; position: relative; }
+        .conf-item::before { content: "•"; position: absolute; left: 0; color: #0056b3; }
+        .venue { font-weight: 600; color: #555; }
     </style>
 </head>
 <body>
     <div class="nav">
-        <a href="index.html">About</a> | <a href="research.html">Research</a> | <a href="experience.html">Consultancy</a>
+        <a href="index.html">Home</a> | <a href="research.html">Research</a> | <a href="experience.html">Consultancy</a>
     </div>
 
-    <h1>Research & PI Portfolio</h1>
-    <p style="font-size: 1.1em; color: #666;">Investigating the intersection of <strong>International Relations</strong> and <strong>Computational Social Science</strong> with a focus on Cyber Governance and Strategic Narratives.</p>
+    <h1>Research & Academic Impact</h1>
 
-    <div class="section-title"><h2>Active Research Programs</h2></div>
-
+    <h2>I. Core Research Programs</h2>
+    
     <div class="project-card">
-        <div class="project-header">
-            <div class="project-title">Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</div>
-            <div class="project-meta">2020 – 2026<br><span class="tag tag-status">Dissertation</span></div>
-        </div>
-        <div>
-            <span class="tag tag-method">NLP</span> <span class="tag tag-method">Discourse Analysis</span>
-            <p>Independent research at <strong>Freie Universität Berlin</strong> analyzing the strategic alignment between China and Russia. I built a custom longitudinal corpus of policy documents to track norm evolution.</p>
-        </div>
-        <div class="deliverables">
-            <strong>Key Deliverables:</strong> Presentations at <em>EISA</em>, <em>APSA</em> and <em>ECPR</em>.
-        </div>
+        <span class="year-tag">2020 – 2026</span>
+        <strong>Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</strong>
+        <p style="margin-top: 10px; font-size: 0.95em; color: #555;">
+            <em>PhD Dissertation | Freie Universität Berlin</em><br>
+            A longitudinal study utilizing LLM-enhanced NLP to track the strategic alignment of cyber norms. 
+            <strong>Status:</strong> Independent, self-funded research in final stage.
+        </p>
     </div>
 
     <div class="project-card">
-        <div class="project-header">
-            <div class="project-title">Digital Sovereignty in Comparative Perspective</div>
-            <div class="project-meta">2024 – 2025<br><span class="tag tag-funding">Italian Ministry of University and Research (PRIN 2022)</span></div>
-        </div>
-        <div>
-            <span class="tag tag-method">Comparative Policy</span> <span class="tag tag-method">Legal Theory</span>
-            <p>Independent research at <strong>University of Salerno</strong>. Responsible for analyzing state authority and fundamental rights in cyberspace across EU and Chinese jurisdictions.</p>
-        </div>
-        <div class="deliverables">
-            <strong>Key Deliverables:</strong> Peer-reviewed articles in <em>International Affairs</em> (R&R) and <em>Dialogues on Digital Society</em>; presentations at <em>Giganet<em>, <em>CompTEXT<em>, <em>IPSA<em>. 
-        </div>
+        <span class="year-tag">2024 – 2025</span>
+        <strong>Digital Sovereignty in Comparative Perspective</strong>
+        <p style="margin-top: 10px; font-size: 0.95em; color: #555;">
+            <em>Fellowship | University of Salerno</em><br>
+            Funded by <strong>EU-NextGenerationEU (PRIN 2022)</strong>. Examining the legal and political contestation of digital authority.
+        </p>
     </div>
 
-    <div class="section-title"><h2>Technical Toolkits & Data Assets</h2></div>
-    <p>I provide robust methodological support for collaborative projects:</p>
+    <h2>II. Selected Publications</h2>
+    <p><em>Targeting high-impact journals in IR and Digital Society.</em></p>
+    <ul style="list-style: none; padding: 0;">
+        <li style="margin-bottom:10px;">• **Yang, G. X.** (R&R). Foundational vs. Functional: Competing Logics of Digital Sovereignty. <strong>International Affairs</strong>.</li>
+        <li style="margin-bottom:10px;">• **Yang, G. X.** (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <strong>Dialogues on Digital Society</strong>.</li>
+    </ul>
+
+    <h2>III. International Conference Presentations</h2>
+    <p><em>Disseminating research at premier venues in Political Science and International Relations.</em></p>
+
+    <div class="conf-group">
+        <h3>Primary Research: Sino-Russian Cyber Alignment</h3>
+        <div class="conf-item"><span class="venue">APSA 2025 & 2024:</span> Vancouver & Philadelphia.</div>
+        <div class="conf-item"><span class="venue">IPSA World Congress 2025:</span> Seoul, South Korea.</div>
+        <div class="conf-item"><span class="venue">EISA Pan-European Conference:</span> Thessaloniki (2025), Lille (2024), Potsdam (2023).</div>
+    </div>
+
+    <div class="conf-group">
+        <h3>Comparative Digital Sovereignty & Computational Methods</h3>
+        <div class="conf-item"><span class="venue">ECPR General Conference 2025:</span> Thessaloniki, Greece.</div>
+        <div class="conf-item"><span class="venue">COMPTEXT 2025 & 2024:</span> Vienna & Amsterdam (Text-as-Data focus).</div>
+        <div class="conf-item"><span class="venue">GigaNet Annual Symposium 2025:</span> Global Internet Governance Academic Network.</div>
+    </div>
+
+    <h2>IV. Teaching & Professional Service</h2>
     <ul>
-        <li><strong>Computational Social Science:</strong> Advanced Python pipelines for LLM-enhanced text analysis and topic modeling.</li>
-        <li><strong>Corpus Building:</strong> Specialized in constructing large-scale, multi-lingual textual corpora (Chinese/English) from UNGA, IGF, and state policy archives.</li>
-        <li><strong>Data Auditing:</strong> Experienced in multi-country data collection for global databases (e.g., CIVICA Digital Trade Integration).</li>
+        <li><strong>Higher Education Teaching Certificate:</strong> Freie Universität Berlin (Expected 2026).</li>
+        <li><strong>Guest Lecturer:</strong> SWING Winter School (2025); Critical Infrastructure Lab, UvA (2025).</li>
+        <li><strong>Languages:</strong> Chinese (Native), English (C2), German (B2), Italian (B1).</li>
     </ul>
 
-    <div class="section-title"><h2>Selected Publications</h2></div>
-    <ul class="pub-list">
-        <li><strong>Yang, G. X.</strong> (R&R). Foundational vs. Functional: Competing Logics of Digital Sovereignty in China and the EU. <em>International Affairs</em>.</li>
-        <li><strong>Yang, G. X.</strong> (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <em>Dialogues on Digital Society</em>.</li>
-        <li><strong>Yang, G. X.</strong> (2024). World Internet Conference and China’s Promotion of Cyber Sovereignty. <em>ELTE Law Journal</em>.</li>
-        <li><strong>Yang, G. X.</strong> (2026). Geopolitics and the Chilling Effect: Chinese Academic Response to the Russia-Ukraine War. In <em>Legal and Ethical Issues of Chilling Effect</em>, Springer.</li>
-        <li><strong>Yang, G. X.</strong> (2025). Sino-Russian Cybersecurity Cooperation and the Digital Silk Road. In <em>Routledge Handbook of China’s BRI</em>.</li>
+    <h2>III. Professional Service</h2>
+    <p><em>Active contribution to the global academic community through peer review and knowledge dissemination.</em></p>
+
+    <div style="margin-bottom: 25px;">
+    <strong>Peer Review & Academic Evaluation</strong>
+    <ul style="margin-top: 5px;">
+        <li><strong>Invited Peer Reviewer:</strong> <em>The Chinese Journal of International Politics</em> (Oxford University Press), 2025.</li>
+        <li><strong>Invited Panel Discussant:</strong> IPSA World Congress, Seoul, 2025 (Panel on Digital Governance).</li>
     </ul>
+    </div>
+
+    <div style="margin-bottom: 25px;">
+    <strong>Teaching & Pedagogical Training</strong>
+    <ul style="margin-top: 5px;">
+        <li><strong>Higher Education Teaching Certificate:</strong> Freie Universität Berlin (In Progress, 2026). Specialized in course design and research-led teaching methods.</li>
+        <li><strong>Guest Lecturer (2025):</strong> Internet Governance Winter School (SWING). Course: <em>Digital Governance in China: Logic and Policies</em>.</li>
+    </ul>
+    </div>
+
+    <div style="margin-bottom: 25px;">
+    <strong>Professional Networks</strong>
+    <ul style="margin-top: 5px;">
+        <li><strong>Co-founder:</strong> Wenshe (Global Network of Social Science Scholars). Supported the establishment of an academic exchange platform connecting 500+ overseas researchers (2021-Present).</li>
+    </ul>
+    </div>
 
     <p style="text-align: center; color: #999; font-size: 0.8em; margin-top: 60px;">
-        &copy; 2026 Grace X. Yang | Based in Berlin, Germany.
+        &copy; 2026 Grace X. Yang.
     </p>
 </body>

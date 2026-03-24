@@ -70,6 +70,7 @@ layout: null
     <span class="tag-pill">Data</span> Developing a longitudinal <strong>multi-lingual corpus</strong> of cyber governance discourse using NLP pipelines.
 </div>
 
+
 <h3>Academic Trajectory</h3>
 <p>My academic path is defined by a rigorous pursuit of multi-dimensional expertise in Global Governance:</p>
 <ul>
