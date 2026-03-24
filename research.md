@@ -37,7 +37,7 @@ layout: null
 <div class="nav">
     <a href="index.html">Home</a>
     <a href="research.html">Research Portfolio</a>
-    <a href="experience.html">Consultancy</a>
+    <a href="consultancy.html">Consultancy</a>
 </div>
 
 <h1 style="font-size: 2.5em; letter-spacing: -1px;">Research Portfolio</h1>
