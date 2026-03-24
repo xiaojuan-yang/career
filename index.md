@@ -83,7 +83,7 @@ layout: null
 <div class="nav">
     <a href="index.html">About</a>
     <a href="research.html">Research</a>
-    <a href="consultant.html">Consultancy</a>
+    <a href="consultancy.html">Consultancy</a>
 </div>
 
 <h3>About Me</h3>

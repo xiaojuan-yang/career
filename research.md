@@ -62,12 +62,15 @@ layout: null
     <h2>Selected Publications</h2>
 
     <h3>Peer-Reviewed Journal Articles</h3>
-    <div class="pub-item">
-        * Yang, G. X. (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <em>Dialogues on Digital Society</em>, Sage.
-    </div>
+
     <div class="pub-item">
         * Yang, G. X. (R&R). Foundational vs. Functional: Competing Logics of Digital Sovereignty. <em>International Affairs</em>.
     </div>
+    
+    <div class="pub-item">
+        * Yang, G. X. (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <em>Dialogues on Digital Society</em>, Sage.
+    </div>
+
     <div class="pub-item">
         * Yang, G. X. (2024). World Internet Conference and China’s Promotion of Cyber Sovereignty. <em>ELTE Law Journal</em>.
     </div>
