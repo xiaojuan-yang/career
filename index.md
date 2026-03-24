@@ -53,7 +53,7 @@ layout: null
             <a href="mailto:Graceyang_pro@outlook.com">Email</a>
             <a href="https://www.linkedin.com/in/xiaojuan-yang/">LinkedIn</a>
             <a href="https://github.com/xiaojuan-yang">GitHub</a>
-            <a href="https://scholar.google.com/">Scholar</a>
+            <a href="https://scholar.google.com/">Google Scholar</a>
         </div>
     </div>
 </div>
@@ -77,7 +77,7 @@ layout: null
 
 <div class="highlight-card">
     <span class="tag-pill">Selected Publication</span>
-    <div>"Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War" - <strong>Legal and Ethical Issues of Chilling Effect by Springer International</strong>.</div>
+    <div>"Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War" - <strong>Legal and Ethical Issues of Chilling Effect by Springer International (2026) </strong>.</div>
 </div>
 
 <div class="highlight-card">
