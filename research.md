@@ -47,7 +47,7 @@ layout: null
             <p>Independent research at <strong>Freie Universität Berlin</strong> analyzing the strategic alignment between China and Russia. I built a custom longitudinal corpus of policy documents to track norm evolution.</p>
         </div>
         <div class="deliverables">
-            <strong>Key Deliverables:</strong> Presentations in <em>EISA</em>, <em>APSA</em> and <em>ECPR</em> .
+            <strong>Key Deliverables:</strong> Presentations at <em>EISA</em>, <em>APSA</em> and <em>ECPR</em>.
         </div>
     </div>
 
@@ -58,10 +58,10 @@ layout: null
         </div>
         <div>
             <span class="tag tag-method">Comparative Policy</span> <span class="tag tag-method">Legal Theory</span>
-            <p>Independent Research at <strong>University of Salerno</strong>. Responsible for analyzing state authority and fundamental rights in cyberspace across EU and Chinese jurisdictions.</p>
+            <p>Independent research at <strong>University of Salerno</strong>. Responsible for analyzing state authority and fundamental rights in cyberspace across EU and Chinese jurisdictions.</p>
         </div>
         <div class="deliverables">
-            <strong>Key Deliverables:</strong> Peer-reviewed articles in <em>International Affairs</em> (R&R) and <em>Dialogues on Digital Society</em>.
+            <strong>Key Deliverables:</strong> Peer-reviewed articles in <em>International Affairs</em> (R&R) and <em>Dialogues on Digital Society</em>; presentations at <em>Giganet<em>, <em>CompTEXT<em>, <em>IPSA<em>. 
         </div>
     </div>
 
