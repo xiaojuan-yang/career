@@ -88,16 +88,17 @@ layout: null
 </div>
 
 <h3>About Me</h3>
-<p>I am an interdisciplinary researcher and consultant bridging the gap between <strong>International Relations theory</strong> and <strong>Computational Social Science</strong>. My work explores the intersection of Cyber Governance, Digital Sovereignty, and Sino-Russian strategic alignment.</p>
+<p>I am an interdisciplinary researcher and consultant bridging the gap between global political thoery and practice. My work explores the intersection of digital technology, state sovereignty, and political strategies.</p>
 
-<p>As a researcher, I employ NLP and LLM-based methodologies to unpack complex political discourses. As a consultant, I translate these high-level insights into actionable intelligence for digital trade, market entry, and strategic communication.</p>
+<p>As a researcher, I employ computational social science methods to unpack political discourses. As a consultant, I translate theoretical insights into actionable intelligence for digital trade, market entry, and strategic communication.</p>
 
 <h3>Core Expertise</h3>
 <ul>
-    <li><strong>Academic:</strong> Global Cyber Governance, Sino-Russian Relations, Digital Authoritarianism.</li>
+    <li><strong>Academic:</strong> Global Governance, Sino-Russian Relations, Great Power Competition.</li>
     <li><strong>Technical:</strong> NLP Pipeline Development, Large-scale Textual Analysis, Python, SQL.</li>
-    <li><strong>Consulting:</strong> Digital Trade Auditing, Cross-border Market Strategy, Multi-language Content Operations.</li>
+    <li><strong>Consulting:</strong> Cross-border Market Strategy, Digital Trade Auditing, Multi-language Content Operations.</li>
 </ul>
+
 
 <p style="text-align: center; color: #999; font-size: 0.8em; margin-top: 50px;">
     &copy; 2026 Grace X. Yang. Expected PhD Completion: April 2026.
