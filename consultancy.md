@@ -42,10 +42,10 @@ layout: null
 <div class="section-title">Digital Policy & Market Intelligence</div>
 
 <div class="project-block">
-    <span class="project-tag">2017 – 2022 | Strategic Leadership</span>
+    <span class="project-tag">2017 – 2022 | E-commerce & Digital Marketing</span>
     <span class="project-title">Onion Global</span>
     <span class="role-title">Digital Strategy Lead & Project Manager</span>
-    <p class="desc">Directed cross-border digital operations by managing a global network of 500+ contributors. Leveraged strategic communication frameworks to optimize brand positioning and narrative strategies across international markets, demonstrating high-level project management in complex multilateral environments.</p>
+    <p class="desc">Managed a large-scale social e-commerce network comprising 500+ content creators. Directed data-driven digital marketing campaigns and localized advertising strategies to drive sales and optimize brand engagement across international markets. This hands-on commercial experience built strong capacities in agile project management, team leadership, and cross-cultural consumer analysis.</p>
 </div>
 
 <div class="project-block">
