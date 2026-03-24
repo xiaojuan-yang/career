@@ -158,6 +158,17 @@ layout: null
         </div>
     </div>
 
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">Media Framing and Agenda Setting: The New York Times on the Beijing Olympics</span>
+            <span class="project-date">2008</span>
+        </div>
+        <span class="project-meta">B.A. Thesis Project | Zhejiang Normal University (ZJNU)</span>
+        <div class="project-desc">
+            An early methodological foundation in text analysis. This research investigated international media narratives and framing strategies, establishing the analytical groundwork for my subsequent transition into computational discourse studies.
+        </div>
+    </div>
+    
 </section>
 
 <div class="section-title">Academic Service</div>
