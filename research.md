@@ -72,12 +72,6 @@ layout: null
         <div class="conf-item"><span class="venue">GigaNet Annual Symposium 2025:</span> Global Internet Governance Academic Network.</div>
     </div>
 
-    <h2>IV. Teaching & Professional Service</h2>
-    <ul>
-        <li><strong>Higher Education Teaching Certificate:</strong> Freie Universität Berlin (Expected 2026).</li>
-        <li><strong>Guest Lecturer:</strong> SWING Winter School (2025); Critical Infrastructure Lab, UvA (2025).</li>
-        <li><strong>Languages:</strong> Chinese (Native), English (C2), German (B2), Italian (B1).</li>
-    </ul>
 
     <h2>III. Professional Service</h2>
     <p><em>Active contribution to the global academic community through peer review and knowledge dissemination.</em></p>
@@ -85,8 +79,8 @@ layout: null
     <div style="margin-bottom: 25px;">
     <strong>Peer Review & Academic Evaluation</strong>
     <ul style="margin-top: 5px;">
-        <li><strong>Invited Peer Reviewer:</strong> <em>The Chinese Journal of International Politics</em> (Oxford University Press), 2025.</li>
-        <li><strong>Invited Panel Discussant:</strong> IPSA World Congress, Seoul, 2025 (Panel on Digital Governance).</li>
+        <li><strong>Invited Peer Reviewer:</strong> <em>Journal of Current Chinese Affairs</em> Sage, 2025.</li>
+        <li><strong>Invited Panel Discussant:</strong> IPSA World Congress, Seoul, 2025 (Panel on AI Governance in the Global South).</li>
     </ul>
     </div>
 
