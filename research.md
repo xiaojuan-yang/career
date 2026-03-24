@@ -59,7 +59,6 @@ layout: null
         <div class="project-outputs">
             <span class="output-label">Selected Outputs</span>
             <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, 2026).</div>
-            <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
             <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
             <div class="output-item">Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</div>
             <div class="output-item">Paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
@@ -85,6 +84,7 @@ layout: null
         <div class="project-outputs">
             <span class="output-label">Selected Outputs</span>
             <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&amp;R at <span class="venue">International Affairs</span>).</div>
+            <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
             <div class="output-item">Paper presented at <strong>ECPR General Conference</strong> (2025).</div>
             <div class="output-item">Paper presented at <strong>Giganet Annual Symposium</strong> (2025).</div>
             <div class="output-item">Presentation at <strong>PRIN Research Retreat</strong>, University of Padova (2025).</div>
@@ -168,7 +168,7 @@ layout: null
             An early methodological foundation in text analysis. This research investigated international media narratives and framing strategies, establishing the analytical groundwork for my subsequent transition into computational discourse studies.
         </div>
     </div>
-    
+
 </section>
 
 <div class="section-title">Academic Service</div>
