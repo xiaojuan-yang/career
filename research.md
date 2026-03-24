@@ -59,6 +59,8 @@ layout: null
     <div class="project-outputs">
         <span class="output-label">Selected Outputs</span>
         <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&R at <span class="venue">International Affairs</span>).</div>
+        <div class="output-item">Draft Paper Presentation: ECPR (2025).</div>
+        <div class="output-item">Draft Paper Presentation: Giganet (2025).</div>
         <div class="output-item">Invited Talk: PRIN Research Retreat, University of Padova (2025).</div>
         <div class="output-item">Workshop Presentation: PRIN Project Workshop, University of Salerno (2024).</div>
     </div>
@@ -71,13 +73,14 @@ layout: null
     </div>
     <span class="project-meta">PhD Dissertation | Freie Universität Berlin</span>
     <div class="project-desc">
-        An investigation into the strategic narrative alignment between China and Russia in global cyber governance. This project utilizes customized <strong>NLP pipelines</strong> to track twenty years of discourse evolution and norm entrepreneurship.
+        An investigation into the strategic alignment between China and Russia in global cyber governance.
     </div>
     <div class="project-outputs">
         <span class="output-label">Selected Outputs</span>
         <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
         <div class="output-item">Conference Paper: <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
         <div class="output-item">Conference Paper: <strong>IPSA World Congress</strong> (Seoul 2025).</div>
+        <div class="output-item">Conference Paper: <strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
     </div>
 </div>
 
