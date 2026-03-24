@@ -3,7 +3,7 @@ layout: null
 ---
 <head>
     <meta charset="UTF-8">
-    <title>Research Portfolio | Grace X. Yang</title>
+    <title>Research | Grace X. Yang</title>
     <style>
         body { font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto; padding: 60px 40px; background-color: #fff; }
         a { color: #2980b9; text-decoration: none; border-bottom: 1px solid transparent; transition: 0.3s; }
@@ -37,11 +37,11 @@ layout: null
 
 <div class="nav">
     <a href="index.html">Home</a>
-    <a href="research.html">Research Portfolio</a>
+    <a href="research.html">Research</a>
     <a href="consultancy.html">Consultancy</a>
 </div>
 
-<h1 style="font-size: 2.5em; letter-spacing: -1px;">Research Portfolio</h1>
+<h1 style="font-size: 2.5em; letter-spacing: -1px;">Research</h1>
 <p style="font-size: 1.2em; color: #7f8c8d; font-weight: 300; margin-bottom: 60px;">
     My research integrates <strong>International Relations theory</strong> with <strong>Computational Social Science</strong> to investigate the contestation of digital norms and the evolving logics of global cyber governance.
 </p>

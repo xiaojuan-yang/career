@@ -30,7 +30,7 @@ layout: null
 
 <div class="nav">
     <a href="index.html">Home</a>
-    <a href="research.html">Research Portfolio</a>
+    <a href="research.html">Research</a>
     <a href="consultancy.html">Consultancy</a>
 </div>
 
