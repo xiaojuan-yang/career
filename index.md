@@ -82,7 +82,7 @@ layout: null
 
 <div class="highlight-card">
     <span class="tag-pill">Methods & Data</span>
-    <div>Developing longitudinal <strong>multi-lingual corpora</strong> of cyber governance discourse utilizing <strong>NLP pipelines</strong>.</div>
+    <div>Developing longitudinal <strong>multi-lingual corpora</strong> of digital sovereignty discourse utilizing <strong>NLP pipelines</strong>.</div>
 </div>
 
 
