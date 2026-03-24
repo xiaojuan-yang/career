@@ -143,10 +143,10 @@ layout: null
         </div>
         <span class="project-meta">Commissioned by: Community Alliance (NGO)</span>
         <div class="project-desc">
-            Independent policy research resulting in a comprehensive report on international welfare systems. This project highlighted early engagement with non-governmental organizations and civil society advocacy.
+            Independent policy research resulting in a comprehensive report on international welfare systems.
         </div>
     </div>
-    
+
     <div class="project-container">
         <div class="project-header">
             <span class="project-title">Strategic Reassurance and China’s Rise</span>
