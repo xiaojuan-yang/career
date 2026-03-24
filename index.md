@@ -61,7 +61,7 @@ layout: null
 
 <h3>Recent Highlights</h3>
 <div class="highlight-item">
-    <span class="tag-pill">Grant</span> <strong>Independent Research Fellow</strong> at University of Salerno, funded by <strong>Italian Ministry of University and Research</strong> (2024-2025).
+    <span class="tag-pill">Grant</span> <strong>Independent Researcher</strong> at University of Salerno, funded by <strong>Italian Ministry of University and Research</strong> (2024-2025).
 </div>
 <div class="highlight-item">
     <span class="tag-pill">Publication</span> "Foundational vs. Functional: Competing Logics of Digital Sovereignty" - <strong>R&R at International Affairs</strong>.
