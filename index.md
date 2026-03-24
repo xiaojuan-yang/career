@@ -67,7 +67,7 @@ layout: null
     <span class="tag-pill">Publication</span> "Foundational vs. Functional: Competing Logics of Digital Sovereignty" - <strong>R&R at International Affairs</strong>.
 </div>
 <div class="highlight-item">
-    <span class="tag-pill">Data</span> Developing a longitudinal <strong>multi-lingual corpus</strong> of cyber governance discourse using LLM-enhanced NLP pipelines.
+    <span class="tag-pill">Data</span> Developing a longitudinal <strong>multi-lingual corpus</strong> of cyber governance discourse using NLP pipelines.
 </div>
 
 <h3>Academic Trajectory</h3>
