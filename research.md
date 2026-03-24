@@ -59,10 +59,10 @@ layout: null
     <div class="project-outputs">
         <span class="output-label">Selected Outputs</span>
         <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&R at <span class="venue">International Affairs</span>).</div>
-        <div class="output-item">Draft Paper Presentation: ECPR (2025).</div>
-        <div class="output-item">Draft Paper Presentation: Giganet (2025).</div>
-        <div class="output-item">Invited Talk: PRIN Research Retreat, University of Padova (2025).</div>
-        <div class="output-item">Workshop Presentation: PRIN Project Workshop, University of Salerno (2024).</div>
+        <div class="output-item">Draft paper presented at <strong>ECPR (2025)<strong>.</div>
+        <div class="output-item">Draft paper presented at <strong>Giganet (2025)<strong>.</div>
+        <div class="output-item">Draft paper presented at <strong>PRIN Research Retreat, University of Padova (2025)<strong>.</div>
+        <div class="output-item">Draft paper presented at <strong>PRIN Project Workshop, University of Salerno (2024)<strong>.</div>
     </div>
 </div>
 
@@ -78,9 +78,10 @@ layout: null
     <div class="project-outputs">
         <span class="output-label">Selected Outputs</span>
         <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
-        <div class="output-item">Conference Paper: <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
-        <div class="output-item">Conference Paper: <strong>IPSA World Congress</strong> (Seoul 2025).</div>
-        <div class="output-item">Conference Paper: <strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
+        <div class="output-item">Draft paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
+        <div class="output-item">Draft paper presented at <strong>IPSA World Congress</strong> (Seoul 2025).</div>
+        <div class="output-item">Draft paper presented at <strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
+        <div class="output-item">Draft paper presented at <strong>Royal Geographical Society Annual Conference </strong> (Virtual 2020).</div>
     </div>
 </div>
 
@@ -108,10 +109,11 @@ layout: null
     </div>
 </div>
 
-<div class="section-title">Academic Service & Citizenship</div>
+<div class="section-title">Academic Service</div>
 <div style="margin-left: 20px;">
     <p>• <strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</p>
     <p>• <strong>Panel Discussant:</strong> IPSA World Congress, Seoul (2025).</p>
+    <p>• <strong>Co-founder:</strong> Wenshe Academic Community (2021-).</p>
     <p>• <strong>Pedagogical Training:</strong> Higher Education Teaching Certificate, Freie Universität Berlin (Expected 2026).</p>
 </div>
 
