@@ -1,9 +1,5 @@
 ---
 layout: default
-title: Home
----
----
-layout: default
 title: Grace X. Yang | Home
 ---
 
