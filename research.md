@@ -44,24 +44,24 @@ layout: null
         </div>
         <div>
             <span class="tag tag-method">NLP</span> <span class="tag tag-method">Discourse Analysis</span>
-            <p>Independent research at <strong>Freie Universität Berlin</strong> analyzing the strategic alignment between China and Russia[cite: 8]. I built a custom longitudinal corpus of policy documents to track norm evolution.</p>
+            <p>Independent research at <strong>Freie Universität Berlin</strong> analyzing the strategic alignment between China and Russia. I built a custom longitudinal corpus of policy documents to track norm evolution.</p>
         </div>
         <div class="deliverables">
-            <strong>Key Deliverables:</strong> Peer-reviewed articles in <em>International Affairs</em> (R&R) and <em>Dialogues on Digital Society</em>[cite: 25, 27].
+            <strong>Key Deliverables:</strong> Presentations in <em>EISA</em>, <em>APSA</em> and <em>ECPR</em> .
         </div>
     </div>
 
     <div class="project-card">
         <div class="project-header">
             <div class="project-title">Digital Sovereignty in Comparative Perspective</div>
-            <div class="project-meta">2024 – 2025<br><span class="tag tag-funding">EU-NextGen (PRIN 2022)</span></div>
+            <div class="project-meta">2024 – 2025<br><span class="tag tag-funding">Italian Ministry of University and Research (PRIN 2022)</span></div>
         </div>
         <div>
             <span class="tag tag-method">Comparative Policy</span> <span class="tag tag-method">Legal Theory</span>
-            <p>Independent Fellowship at <strong>University of Salerno</strong>[cite: 61]. Responsible for analyzing state authority and fundamental rights in cyberspace across EU and Chinese jurisdictions[cite: 62].</p>
+            <p>Independent Research at <strong>University of Salerno</strong>. Responsible for analyzing state authority and fundamental rights in cyberspace across EU and Chinese jurisdictions.</p>
         </div>
         <div class="deliverables">
-            <strong>Capacity:</strong> Managing project milestones and delivering reports for EU-funded research frameworks[cite: 40].
+            <strong>Key Deliverables:</strong> Peer-reviewed articles in <em>International Affairs</em> (R&R) and <em>Dialogues on Digital Society</em>.
         </div>
     </div>
 
@@ -70,15 +70,15 @@ layout: null
     <ul>
         <li><strong>Computational Social Science:</strong> Advanced Python pipelines for LLM-enhanced text analysis and topic modeling.</li>
         <li><strong>Corpus Building:</strong> Specialized in constructing large-scale, multi-lingual textual corpora (Chinese/English) from UNGA, IGF, and state policy archives.</li>
-        <li><strong>Data Auditing:</strong> Experienced in multi-country data collection for global databases (e.g., CIVICA Digital Trade Integration)[cite: 63, 64].</li>
+        <li><strong>Data Auditing:</strong> Experienced in multi-country data collection for global databases (e.g., CIVICA Digital Trade Integration).</li>
     </ul>
 
     <div class="section-title"><h2>Selected Publications</h2></div>
     <ul class="pub-list">
         <li><strong>Yang, G. X.</strong> (R&R). Foundational vs. Functional: Competing Logics of Digital Sovereignty in China and the EU. <em>International Affairs</em>.</li>
-        <li><strong>Yang, G. X.</strong> (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <em>Dialogues on Digital Society</em>[cite: 25].</li>
-        <li><strong>Yang, G. X.</strong> (2026). Geopolitics and the Chilling Effect: Chinese Academic Response to the Russia-Ukraine War. In <em>Legal and Ethical Issues of Chilling Effect</em>, Springer[cite: 31, 32].</li>
-        <li><strong>Yang, G. X.</strong> (2025). Sino-Russian Cybersecurity Cooperation and the Digital Silk Road. In <em>Routledge Handbook of China’s BRI</em>[cite: 33, 34].</li>
+        <li><strong>Yang, G. X.</strong> (2025). The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty. <em>Dialogues on Digital Society</em>.</li>
+        <li><strong>Yang, G. X.</strong> (2026). Geopolitics and the Chilling Effect: Chinese Academic Response to the Russia-Ukraine War. In <em>Legal and Ethical Issues of Chilling Effect</em>, Springer.</li>
+        <li><strong>Yang, G. X.</strong> (2025). Sino-Russian Cybersecurity Cooperation and the Digital Silk Road. In <em>Routledge Handbook of China’s BRI</em>.</li>
     </ul>
 
     <p style="text-align: center; color: #999; font-size: 0.8em; margin-top: 60px;">
