@@ -138,7 +138,7 @@ layout: null
 
     <div class="project-container">
         <div class="project-header">
-            <span class="project-title">Global Welfare Coordination and Civil Society</span>
+            <span class="project-title">China's Welfare Reform and International Welfare Cooperation</span>
             <span class="project-date">2011</span>
         </div>
         <span class="project-meta">Commissioned by: Community Alliance (NGO)</span>
