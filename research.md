@@ -61,10 +61,7 @@ layout: null
             <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, by Springer International Publishing, 2026).</div>
             <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
             <div class="output-item">Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</div>
-            <div class="output-item">Paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
-            <div class="output-item">Paper presented at <strong>IPSA World Congress</strong> (Seoul 2025).</div>
-            <div class="output-item">Paper presented at <strong>EISA Annual Conference</strong> (Potsdam 2023, Lille 2024, Bologna 2025).</div>
-            <div class="output-item">Paper presented at <strong>Royal Geographical Society Annual Conference</strong> (Virtual 2020).</div>
+            <div class="output-item">Findings from this project have been presented at premier global venues, including EISA (2023, 2024, 2025), APSA (2024, 2025), IPSA (2025), and ECPR (2025).</div>
         </div>
     </div>
 </section>
@@ -85,10 +82,7 @@ layout: null
             <span class="output-label">Selected Outputs</span>
             <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&amp;R at <span class="venue">International Affairs</span>).</div>
             <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
-            <div class="output-item">Paper presented at <strong>ECPR General Conference</strong> (2025).</div>
-            <div class="output-item">Paper presented at <strong>Giganet Annual Symposium</strong> (2025).</div>
-            <div class="output-item">Presentation at <strong>PRIN Research Retreat</strong>, University of Padova (2025).</div>
-            <div class="output-item">Presentation at <strong>PRIN Project Workshop</strong>, University of Salerno (2024).</div>
+            <div class="output-item">Presentation at <strong>Findings from this project have been presented at premier global venues, including GigaNet (2025), IPSA (2025), and ECPR (2025).</div>
         </div>
     </div>
 
@@ -116,17 +110,6 @@ layout: null
 
     <div class="project-container">
         <div class="project-header">
-            <span class="project-title">China’s Paradox in Global Climate Governance</span>
-            <span class="project-date">2016</span>
-        </div>
-        <span class="project-meta">Double M.A. Thesis Project | LUISS Guido Carli & CFAU</span>
-        <div class="project-desc">
-            Investigated the evolution of responsibility and policy paradigms in China’s foreign climate policy from the Bali Summit to the Paris Agreement.
-        </div>
-    </div>
-
-    <div class="project-container">
-        <div class="project-header">
             <span class="project-title">Climate Financing in the BASIC Countries</span>
             <span class="project-date">2014</span>
         </div>
@@ -136,38 +119,6 @@ layout: null
         </div>
     </div>
 
-    <div class="project-container">
-        <div class="project-header">
-            <span class="project-title">China's Welfare Reform and International Welfare Cooperation</span>
-            <span class="project-date">2011</span>
-        </div>
-        <span class="project-meta">Commissioned by: Community Alliance (NGO)</span>
-        <div class="project-desc">
-            Independent policy research resulting in a comprehensive report on international welfare systems.
-        </div>
-    </div>
-
-    <div class="project-container">
-        <div class="project-header">
-            <span class="project-title">Strategic Reassurance and China’s Rise</span>
-            <span class="project-date">2010</span>
-        </div>
-        <span class="project-meta">B.A. Thesis Project | China Foreign Affairs University (CFAU)</span>
-        <div class="project-desc">
-            Early fundamental research analyzing the diplomatic strategies employed by emerging powers to mitigate security dilemmas in the international system.
-        </div>
-    </div>
-
-    <div class="project-container">
-        <div class="project-header">
-            <span class="project-title">The New York Times Reportage on the Beijing Olympics</span>
-            <span class="project-date">2008</span>
-        </div>
-        <span class="project-meta">B.A. Thesis Project | Zhejiang Normal University (ZJNU)</span>
-        <div class="project-desc">
-            Early fundamental research investigating international media narratives and framing strategies on China reporting.
-        </div>
-    </div>
 
 </section>
 
