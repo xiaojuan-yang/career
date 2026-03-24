@@ -58,7 +58,7 @@ layout: null
         </div>
         <div class="project-outputs">
             <span class="output-label">Selected Outputs</span>
-            <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, 2026).</div>
+            <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, by Springer International Publishing, 2026).</div>
             <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
             <div class="output-item">Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</div>
             <div class="output-item">Paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
@@ -165,7 +165,7 @@ layout: null
         </div>
         <span class="project-meta">B.A. Thesis Project | Zhejiang Normal University (ZJNU)</span>
         <div class="project-desc">
-            An early methodological foundation in text analysis. This research investigated international media narratives and framing strategies, establishing the analytical groundwork for my subsequent transition into computational discourse studies.
+            Early fundamental research investigating international media narratives and framing strategies on China.
         </div>
     </div>
 
