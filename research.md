@@ -52,7 +52,7 @@ layout: null
     <div class="project-container">
         <div class="project-header">
             <span class="project-title">Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</span>
-            <span class="project-date">2020 – 2026</span>
+            <span class="project-date">Expected Completion: 2026</span>
         </div>
         <span class="project-meta">PhD Dissertation | Freie Universität Berlin</span>
         <div class="project-desc">
