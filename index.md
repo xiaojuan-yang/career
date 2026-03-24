@@ -22,7 +22,6 @@ title: Grace X. Yang | Home
 
 ---
 ### [About](#about) | [Research Profile](research.html) | [Consultancy & Industry](experience.html) | [Wenshe Community](wenshe.html)
----
 
 ---
 
