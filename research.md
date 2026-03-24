@@ -110,6 +110,12 @@ layout: null
 
 </section>
 
+<div class="section-title">Core Analytical Assets</div>
+<ul class="competency-list">
+    <li><strong>Linguistic Intelligence (OSINT):</strong> Native in Chinese; fluent in English (C2), German (B2), Italian (B1), and French (A2). Capable of extracting and analyzing primary policy data across multiple geopolitical jurisdictions.</li>
+    <li><strong>Computational Expertise:</strong> Proficient in Python (NLP, Text-as-Data, Web Scraping) to provide quantitative backbones for qualitative strategic consulting.</li>
+</ul>
+
 <div class="section-title">Academic Service</div>
 <div style="margin-left: 20px;">
     <p>• <strong>Co-founder:</strong> Wenshe Academic Community (2021-).</p>

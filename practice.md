@@ -71,11 +71,6 @@ layout: null
     <p class="desc">Conducted on-the-ground reporting on the evolving socioeconomic and political dynamics between the EU and China. Synthesized multilingual data to provide cross-regional audiences with empirical insights into bilateral relations.</p>
 </div>
 
-<div class="section-title">Core Analytical Assets</div>
-<ul class="competency-list">
-    <li><strong>Linguistic Intelligence (OSINT):</strong> Native in Chinese; fluent in English (C2), German (B2), Italian (B1), and French (A2). Capable of extracting and analyzing primary policy data across multiple geopolitical jurisdictions.</li>
-    <li><strong>Computational Expertise:</strong> Proficient in Python (NLP, Text-as-Data, Web Scraping) to provide quantitative backbones for qualitative strategic consulting.</li>
-</ul>
 
 <p style="margin-top: 100px; color: #bdc3c7; font-size: 0.85em; text-align: center;">
     &copy; 2026 Grace X. Yang.
