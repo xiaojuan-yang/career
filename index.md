@@ -1,17 +1,28 @@
-# Grace X. Yang
-
-<img src="assets/avatar.jpg" width="180" align="right" style="border-radius: 8px; margin: 0 0 20px 20px;">
-
-**Ph.D. Candidate in International Relations** | [Freie Universität Berlin](https://www.fu-berlin.de/)  
-**Independent Research Fellow** | [University of Salerno](https://www.unisa.it/)  
-**Interdisciplinary Consultant** | Digital Policy & Market Strategy
-
-[Email](mailto:Graceyang_pro@outlook.com) | [LinkedIn](https://www.linkedin.com/in/xiaojuan-yang/) | [GitHub](https://github.com/xiaojuan-yang) | [CV](./Yang-cv.pdf)
-
+---
+layout: default
+title: Grace X. Yang | Home
 ---
 
-### Navigation
-[About](#about) | [Research Profile](research.html) | [Consultancy & Industry](experience.html) | [Wenshe Community](wenshe.html)
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="flex: 1;">
+    <h1 style="margin-top: 0;">Grace X. Yang</h1>
+    <p><strong>Ph.D. Candidate in International Relations</strong><br>
+    <a href="https://www.fu-berlin.de/">Freie Universität Berlin</a> | Otto Suhr Institute</p>
+    <p><strong>Interdisciplinary Consultant</strong><br>
+    Digital Policy & Market Strategy</p>
+    <p>
+      <a href="mailto:Graceyang_pro@outlook.com">Email</a> | 
+      <a href="https://www.linkedin.com/in/xiaojuan-yang/">LinkedIn</a> | 
+      <a href="https://github.com/xiaojuan-yang">GitHub</a> | 
+      <a href="./Yang-cv.pdf">Download CV</a>
+    </p>
+  </div>
+  <img src="assets/avatar.jpeg" width="160" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
+---
+### [About](#about) | [Research Profile](research.html) | [Consultancy & Industry](experience.html) | [Wenshe Community](wenshe.html)
+---
 
 ---
 
