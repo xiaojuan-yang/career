@@ -88,8 +88,6 @@ layout: null
     </div>
 </div>
 
-
-
 <div class="section-title">Collaborative & Policy Research</div>
 
 <div class="project-container">
@@ -115,6 +113,7 @@ layout: null
 </div>
 
 <div class="section-title">Academic Service</div>
+
 <div style="margin-left: 20px;">
     <p>• <strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</p>
     <p>• <strong>Panel Discussant:</strong> IPSA World Congress, Seoul (2025).</p>
