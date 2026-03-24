@@ -132,10 +132,21 @@ layout: null
         </div>
         <span class="project-meta">Funded by: China Clean Development Mechanism Fund (CCDMF)</span>
         <div class="project-desc">
-            Policy-oriented research conducted for the <strong>Ministry of Finance of China</strong>, focusing on the evolution of international welfare cooperation and climate financing mechanisms among major emerging economies.
+            Policy-oriented research conducted for the <strong>Ministry of Finance of China</strong>, focusing on the cooperation of climate financing among major emerging economies.
         </div>
     </div>
 
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">Global Welfare Coordination and Civil Society</span>
+            <span class="project-date">2011</span>
+        </div>
+        <span class="project-meta">Commissioned by: Community Alliance (NGO)</span>
+        <div class="project-desc">
+            Independent policy research resulting in a comprehensive report on international welfare systems. This project highlighted early engagement with non-governmental organizations and civil society advocacy.
+        </div>
+    </div>
+    
     <div class="project-container">
         <div class="project-header">
             <span class="project-title">Strategic Reassurance and China’s Rise</span>
