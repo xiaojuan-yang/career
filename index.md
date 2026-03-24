@@ -5,29 +5,39 @@ layout: null
     <meta charset="UTF-8">
     <title>Grace X. Yang | Cyber Governance & Computational IR</title>
     <style>
-        body { font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.6; color: #222; max-width: 850px; margin: 60px auto; padding: 0 40px; background-color: #fff; }
-        a { color: #0056b3; text-decoration: none; border-bottom: 1px solid transparent; }
-        a:hover { border-bottom: 1px solid #0056b3; }
+        body { font-family: "Inter", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto; padding: 80px 40px; background-color: #fff; }
+        a { color: #2980b9; text-decoration: none; border-bottom: 1px solid transparent; transition: 0.3s; }
+        a:hover { border-bottom: 1px solid #2980b9; }
         
-        /* 头部：PI 风格布局 */
-        .header-container { display: flex; align-items: center; gap: 40px; margin-bottom: 40px; }
-        .profile-img { width: 180px; height: 180px; border-radius: 50%; object-fit: cover; filter: grayscale(10%); border: 1px solid #eee; }
-        .header-text h1 { margin: 0; font-size: 2.4em; font-weight: 700; color: #111; }
-        .header-text p { margin: 5px 0; font-size: 1.1em; color: #444; }
+        /* 头部布局 */
+        .header-container { display: flex; align-items: center; gap: 60px; margin-bottom: 60px; }
+        .profile-img { width: 200px; height: 200px; border-radius: 4px; object-fit: cover; box-shadow: 20px 20px 0px #f4f7f6; border: 1px solid #eee; }
+        .header-text h1 { margin: 0; font-size: 2.8em; letter-spacing: -1px; color: #1a1a1a; font-weight: 700; }
+        .header-text p { font-size: 1.2em; color: #7f8c8d; margin: 10px 0; }
         
-        /* 导航栏：学术标准 */
-        .nav { border-top: 1px solid #eee; border-bottom: 1px solid #eee; padding: 12px 0; margin: 30px 0; display: flex; justify-content: center; gap: 30px; }
-        .nav a { font-weight: 600; color: #333; font-size: 0.95em; text-transform: uppercase; letter-spacing: 0.5px; }
+        /* 导航栏样式 */
+        .nav { margin: 40px 0; display: flex; gap: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px; justify-content: center; }
+        .nav a { font-weight: 600; color: #34495e; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; }
 
-        /* 核心研究板块 */
-        .vision-box { background: #f8f9fa; padding: 25px; border-radius: 8px; border-left: 4px solid #0056b3; margin-bottom: 40px; }
-        h3 { font-size: 1.4em; margin-top: 40px; border-bottom: 1px solid #eee; padding-bottom: 10px; color: #111; }
+        /* 愿景陈述 */
+        .vision-text { font-size: 1.25em; color: #34495e; font-weight: 300; margin-bottom: 50px; line-height: 1.9; }
+
+        /* 内容板块标题 */
+        .section-title { font-size: 1.5em; font-weight: 700; margin: 60px 0 30px 0; color: #1a1a1a; text-transform: uppercase; letter-spacing: 1px; border-left: 5px solid #2c3e50; padding-left: 20px; }
         
-        .highlight-item { margin-bottom: 15px; }
-        .tag-pill { display: inline-block; background: #e9ecef; padding: 2px 10px; border-radius: 15px; font-size: 0.8em; font-weight: 600; color: #495057; margin-right: 8px; }
+        /* 高亮块设计 */
+        .highlight-card { background: #fdfdfd; padding: 30px; border: 1px solid #f0f0f0; margin-bottom: 20px; border-radius: 4px; transition: 0.3s; }
+        .highlight-card:hover { border-color: #2980b9; box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
+        .tag-pill { display: inline-block; font-size: 0.75em; font-weight: 800; color: #e67e22; text-transform: uppercase; margin-bottom: 10px; }
         
-        .social-icons { margin-top: 15px; display: flex; gap: 15px; }
-        .social-icons a { font-size: 0.9em; color: #666; font-weight: 500; }
+        /* 轨迹列表样式 */
+        .trajectory-list { list-style: none; padding: 0; }
+        .trajectory-item { margin-bottom: 20px; padding-left: 20px; border-left: 2px solid #eee; }
+        .trajectory-item strong { color: #1a1a1a; display: block; }
+        .trajectory-item span { font-size: 0.9em; color: #7f8c8d; }
+
+        .social-icons { margin-top: 20px; display: flex; gap: 20px; }
+        .social-icons a { font-size: 0.85em; font-weight: 600; color: #7f8c8d; text-transform: uppercase; letter-spacing: 1px; }
     </style>
 </head>
 <body>
@@ -36,15 +46,14 @@ layout: null
     <img src="assets/avatar.jpeg" class="profile-img" alt="Grace X. Yang">
     <div class="header-text">
         <h1>Grace X. Yang</h1>
-        <p><strong>Ph.D. Candidate in International Relations</strong></p>
+        <p>Ph.D. Candidate in International Relations</p>
         <p>Freie Universität Berlin | Berlin, Germany</p>
-        <p style="color: #666; font-size: 0.95em;">Specializing in Cyber Governance, Digital Sovereignty, and Computational IR</p>
         
         <div class="social-icons">
             <a href="mailto:Graceyang_pro@outlook.com">Email</a>
             <a href="https://www.linkedin.com/in/xiaojuan-yang/">LinkedIn</a>
             <a href="https://github.com/xiaojuan-yang">GitHub</a>
-            <a href="https://scholar.google.com/">Google Scholar</a>
+            <a href="https://scholar.google.com/">Scholar</a>
         </div>
     </div>
 </div>
@@ -52,35 +61,41 @@ layout: null
 <div class="nav">
     <a href="index.html">Home</a>
     <a href="research.html">Research</a>
-    <a href="consultancy.html">Consultancy</a>
+    <a href="experience.html">Consultancy</a>
 </div>
 
-<div class="vision-box">
-    <strong>Research Vision:</strong> I investigate how emerging technologies reshape the foundational norms of global politics. By bridging <strong>International Relations theory</strong> with <strong>Computational Social Science</strong>, my work provides data-driven insights into Sino-Russian strategic alignment and the competing logics of digital sovereignty.
+<div class="vision-text">
+    I investigate how emerging technologies reshape the foundational norms of global politics. By bridging <strong>International Relations theory</strong> with <strong>Computational Social Science</strong>, my work provides data-driven insights into Sino-Russian strategic alignment and the competing logics of digital sovereignty.
 </div>
 
-<h3>Recent Highlights</h3>
-<div class="highlight-item">
-    <span class="tag-pill">Grant</span> <strong>Independent Researcher</strong> at University of Salerno, funded by <strong>Italian Ministry of University and Research</strong> (2024-2025).
-</div>
-<div class="highlight-item">
-    <span class="tag-pill">Publication</span> "Foundational vs. Functional: Competing Logics of Digital Sovereignty" - <strong>R&R at International Affairs</strong>.
-</div>
-<div class="highlight-item">
-    <span class="tag-pill">Data</span> Developing a longitudinal <strong>multi-lingual corpus</strong> of cyber governance discourse using NLP pipelines.
+<div class="section-title">Recent Highlights</div>
+
+<div class="highlight-card">
+    <span class="tag-pill">Research Grant</span>
+    <div><strong>Independent Researcher</strong> at University of Salerno, funded by the <strong>Italian Ministry of University and Research</strong> / EU-NextGenerationEU (2024-2025).</div>
 </div>
 
+<div class="highlight-card">
+    <span class="tag-pill">Selected Publication</span>
+    <div>"Foundational vs. Functional: Competing Logics of Digital Sovereignty" - <strong>R&R at International Affairs</strong>.</div>
+</div>
 
-<h3>Academic Trajectory</h3>
-<p>My academic path is defined by a rigorous pursuit of multi-dimensional expertise in Global Governance:</p>
-<ul>
-    <li><strong>Computational IR:</strong> M.A. in Data and Discourse Studies (TU Darmstadt), focusing on text-as-data methods.</li>
-    <li><strong>Global Policy:</strong> Double M.A. in International Relations (LUISS Italy & CFAU China).</li>
-    <li><strong>Diplomatic Foundations:</strong> Double Bachelor’s in Diplomatic Studies (CFAU) and English Literature (ZJNU).</li>
-</ul>
+<div class="highlight-card">
+    <span class="tag-pill">Methods & Data</span>
+    <div>Developing longitudinal <strong>multi-lingual corpora</strong> of cyber governance discourse utilizing <strong>NLP pipelines</strong>.</div>
+</div>
 
-<p style="margin-top: 60px; color: #999; font-size: 0.85em; text-align: center;">
-    &copy; 2026 Grace X. Yang. Expected Ph.D. Completion: April 2026.
-</p>
 
-</body>
+<div class="section-title">Academic Trajectory</div>
+<div class="trajectory-list">
+    <div class="trajectory-item">
+        <strong>Computational IR Focus</strong>
+        <span>M.A. in Data and Discourse Studies (TU Darmstadt), specializing in text-as-data methodologies.</span>
+    </div>
+    <div class="trajectory-item">
+        <strong>Global Policy Foundations</strong>
+        <span>Double M.A. in International Relations (LUISS Guido Carli, Italy & China Foreign Affairs University).</span>
+    </div>
+    <div class="trajectory-item">
+        <strong>Diplomatic & Linguistic Training</strong>
+        <span>Double Bachelor’s in Diplomatic Studies (CFAU) and English Language and Literature (ZJNU).</span>

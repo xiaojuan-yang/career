@@ -110,7 +110,7 @@ layout: null
 
 <div class="section-title">Academic Service & Citizenship</div>
 <div style="margin-left: 20px;">
-    <p>• <strong>Invited Reviewer:</strong> <em>The Chinese Journal of International Politics</em> (Oxford University Press, 2025).</p>
+    <p>• <strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</p>
     <p>• <strong>Panel Discussant:</strong> IPSA World Congress, Seoul (2025).</p>
     <p>• <strong>Pedagogical Training:</strong> Higher Education Teaching Certificate, Freie Universität Berlin (Expected 2026).</p>
 </div>
