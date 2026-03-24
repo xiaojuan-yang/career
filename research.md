@@ -37,17 +37,17 @@ layout: null
     <h2>I. Core Research Programs</h2>
 
     <div class="project-card">
+        <span class="year-tag">2020 – 2026</span>
+        <span class="funding-source">Ph.D Dissertation Project</span>
+        <strong>Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</strong>
+        <p style="margin-top: 5px; font-size: 0.95em;">Dissertation at <strong>Freie Universität Berlin</strong>. Leveraging LLM-enhanced NLP pipelines to analyze strategic alignment in global cyber governance.</p>
+    </div>
+
+    <div class="project-card">
         <span class="year-tag">2024 – 2025</span>
         <span class="funding-source">Funded by: Italian Ministry of University and Research (PRIN 2022) / EU-NextGenerationEU</span>
         <strong>Digital Sovereignty in Comparative Perspective</strong>
         <p style="margin-top: 5px; font-size: 0.95em;">Independent Research Fellow at <strong>University of Salerno</strong>. Analyzing state authority and fundamental rights in cyberspace across EU and Chinese jurisdictions.</p>
-    </div>
-
-    <div class="project-card">
-        <span class="year-tag">2020 – 2026</span>
-        <span class="funding-source">Status: Self-funded Independent Research</span>
-        <strong>Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</strong>
-        <p style="margin-top: 5px; font-size: 0.95em;">Dissertation at <strong>Freie Universität Berlin</strong>. Leveraging LLM-enhanced NLP pipelines to analyze strategic alignment in global cyber governance.</p>
     </div>
 
     <div class="project-card">
