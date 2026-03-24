@@ -72,7 +72,7 @@ layout: null
 
 <div class="highlight-card">
     <span class="tag-pill">Research Grant</span>
-    <div><strong>Independent Researcher</strong> at University of Salerno, funded by the <strong>Italian Ministry of University and Research</strong> / EU-NextGenerationEU (2024-2025).</div>
+    <div><strong>Researcher</strong> at University of Salerno, funded by the <strong>Italian Ministry of University and Research</strong> / EU-NextGenerationEU (2024-2025).</div>
 </div>
 
 <div class="highlight-card">
