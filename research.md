@@ -42,7 +42,7 @@ layout: null
 
 <h1 style="font-size: 2.5em; letter-spacing: -1px;">Research Portfolio</h1>
 <p style="font-size: 1.2em; color: #7f8c8d; font-weight: 300; margin-bottom: 60px;">
-    My research integrates <strong>International Relations theory</strong> with <strong>Computational Social Science</strong> to investigate the contestation of digital norms and the evolving logics of global cyber governance.
+    My research integrates </strong>International Relations theory</strong> with </strong>Computational Social Science</strong> to investigate the contestation of digital norms and the evolving logics of global cyber governance.
 </p>
 
 <div class="section-title">Independent Research Projects</div>
@@ -62,10 +62,10 @@ layout: null
         <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
         <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order: Implications for the Digital Silk Road" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
         <div class="output-item">Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</div>
-        <div class="output-item">Draft paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
-        <div class="output-item">Draft paper presented at <strong>IPSA World Congress</strong> (Seoul 2025).</div>
-        <div class="output-item">Draft paper presented at <strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
-        <div class="output-item">Draft paper presented at <strong>Royal Geographical Society Annual Conference </strong> (Virtual 2020).</div>
+        <div class="output-item">Draft paper presented at </strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
+        <div class="output-item">Draft paper presented at </strong>IPSA World Congress</strong> (Seoul 2025).</div>
+        <div class="output-item">Draft paper presented at </strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
+        <div class="output-item">Draft paper presented at </strong>Royal Geographical Society Annual Conference </strong> (Virtual 2020).</div>
     </div>
 </div>
 
@@ -76,15 +76,15 @@ layout: null
     </div>
     <span class="project-meta">Funded by: Italian Ministry of University and Research (PRIN 2022) / EU-NextGenerationEU</span>
     <div class="project-desc">
-        Based at the <strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace. I developed a comparative framework to analyze how different jurisdictions balance digital sovereignty with fundamental rights.
+        Based at the </strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace. I developed a comparative framework to analyze how different jurisdictions balance digital sovereignty with fundamental rights.
     </div>
     <div class="project-outputs">
         <span class="output-label">Selected Outputs</span>
         <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&R at <span class="venue">International Affairs</span>).</div>
-        <div class="output-item">Draft paper presented at <strong>ECPR (2025)<strong>.</div>
-        <div class="output-item">Draft paper presented at <strong>Giganet (2025)<strong>.</div>
-        <div class="output-item">Draft paper presented at <strong>PRIN Research Retreat, University of Padova (2025)<strong>.</div>
-        <div class="output-item">Draft paper presented at <strong>PRIN Project Workshop, University of Salerno (2024)<strong>.</div>
+        <div class="output-item">Draft paper presented at </strong>ECPR (2025)</strong>.</div>
+        <div class="output-item">Draft paper presented at </strong>Giganet (2025)</strong>.</div>
+        <div class="output-item">Draft paper presented at </strong>PRIN Research Retreat, University of Padova (2025)</strong>.</div>
+        <div class="output-item">Draft paper presented at </strong>PRIN Project Workshop, University of Salerno (2024)</strong>.</div>
     </div>
 </div>
 
@@ -108,17 +108,17 @@ layout: null
     </div>
     <span class="project-meta">Funded by: China Clean Development Mechanism Fund (CCDMF)</span>
     <div class="project-desc">
-        Policy-oriented research conducted for the <strong>Ministry of Finance of China</strong>, focusing on the evolution of international welfare cooperation and climate financing mechanisms among major emerging economies.
+        Policy-oriented research conducted for the </strong>Ministry of Finance of China</strong>, focusing on the evolution of international welfare cooperation and climate financing mechanisms among major emerging economies.
     </div>
 </div>
 
 <div class="section-title">Academic Service</div>
 
 <div style="margin-left: 20px;">
-    <p>• <strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</p>
-    <p>• <strong>Panel Discussant:</strong> IPSA World Congress, Seoul (2025).</p>
-    <p>• <strong>Co-founder:</strong> Wenshe Academic Community (2021-).</p>
-    <p>• <strong>Pedagogical Training:</strong> Higher Education Teaching Certificate, Freie Universität Berlin (Expected 2026).</p>
+    <p>• </strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</p>
+    <p>• </strong>Panel Discussant:</strong> IPSA World Congress, Seoul (2025).</p>
+    <p>• </strong>Co-founder:</strong> Wenshe Academic Community (2021-).</p>
+    <p>• </strong>Pedagogical Training:</strong> Higher Education Teaching Certificate, Freie Universität Berlin (Expected 2026).</p>
 </div>
 
 <p style="margin-top: 100px; color: #bdc3c7; font-size: 0.8em; text-align: center;">
