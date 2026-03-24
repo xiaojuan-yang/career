@@ -15,7 +15,6 @@ layout: null
         .section-title { font-size: 1.6em; font-weight: 700; margin: 60px 0 30px 0; color: #1a1a1a; text-transform: uppercase; letter-spacing: 1px; border-left: 5px solid #2c3e50; padding-left: 20px; }
         .portfolio-section { margin-bottom: 80px; }
         
-        /* Maria 风格的项目块 */
         .project-container { margin-bottom: 50px; }
         .project-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 15px; }
         .project-title { font-size: 1.4em; font-weight: 700; color: #1a1a1a; }
@@ -24,7 +23,6 @@ layout: null
         .project-meta { font-size: 0.9em; color: #e67e22; font-weight: 700; text-transform: uppercase; margin-bottom: 10px; display: block; }
         .project-desc { margin-bottom: 20px; color: #34495e; }
         
-        /* 模仿 Maria 列出项目下的具体产出 */
         .project-outputs { background: #f9f9f9; padding: 20px; border-radius: 4px; border: 1px solid #f0f0f0; }
         .output-label { font-size: 0.8em; font-weight: 800; color: #7f8c8d; text-transform: uppercase; display: block; margin-bottom: 8px; }
         .output-item { font-size: 0.95em; margin-bottom: 8px; padding-left: 15px; position: relative; }
@@ -47,7 +45,7 @@ layout: null
 </p>
 
 <section class="portfolio-section">
-    <div class="section-title">Independent Research Projects</div>
+    <div class="section-title">Ongoing Research</div>
 
     <div class="project-container">
         <div class="project-header">
@@ -60,16 +58,20 @@ layout: null
         </div>
         <div class="project-outputs">
             <span class="output-label">Selected Outputs</span>
-            <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, 2026).</div>
+            <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, 2026).</div>
             <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
-            <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order: Implications for the Digital Silk Road" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
+            <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
             <div class="output-item">Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</div>
-            <div class="output-item">Draft paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
-            <div class="output-item">Draft paper presented at <strong>IPSA World Congress</strong> (Seoul 2025).</div>
-            <div class="output-item">Draft paper presented at <strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
-            <div class="output-item">Draft paper presented at <strong>Royal Geographical Society Annual Conference</strong> (Virtual 2020).</div>
+            <div class="output-item">Paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
+            <div class="output-item">Paper presented at <strong>IPSA World Congress</strong> (Seoul 2025).</div>
+            <div class="output-item">Paper presented at <strong>EISA Annual Conference</strong> (Potsdam 2023, Lille 2024, Bologna 2025).</div>
+            <div class="output-item">Paper presented at <strong>Royal Geographical Society Annual Conference</strong> (Virtual 2020).</div>
         </div>
     </div>
+</section>
+
+<section class="portfolio-section">
+    <div class="section-title">Completed Projects</div>
 
     <div class="project-container">
         <div class="project-header">
@@ -78,21 +80,28 @@ layout: null
         </div>
         <span class="project-meta">Funded by: Italian Ministry of University and Research (PRIN 2022) / EU-NextGenerationEU</span>
         <div class="project-desc">
-            Based at the <strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace. I developed a comparative framework to analyze how different jurisdictions balance digital sovereignty with fundamental rights.
+            Based at the <strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace, developing a comparative framework for how different jurisdictions balance digital sovereignty with fundamental rights.
         </div>
         <div class="project-outputs">
             <span class="output-label">Selected Outputs</span>
             <div class="output-item">Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (R&amp;R at <span class="venue">International Affairs</span>).</div>
-            <div class="output-item">Draft paper presented at <strong>ECPR</strong> (2025).</div>
-            <div class="output-item">Draft paper presented at <strong>Giganet</strong> (2025).</div>
-            <div class="output-item">Draft paper presented at <strong>PRIN Research Retreat, University of Padova</strong> (2025).</div>
-            <div class="output-item">Draft paper presented at <strong>PRIN Project Workshop, University of Salerno</strong> (2024).</div>
+            <div class="output-item">Paper presented at <strong>ECPR General Conference</strong> (2025).</div>
+            <div class="output-item">Paper presented at <strong>Giganet Annual Symposium</strong> (2025).</div>
+            <div class="output-item">Presentation at <strong>PRIN Research Retreat</strong>, University of Padova (2025).</div>
+            <div class="output-item">Presentation at <strong>PRIN Project Workshop</strong>, University of Salerno (2024).</div>
         </div>
     </div>
-</section>
 
-<section class="portfolio-section">
-    <div class="section-title">Collaborative &amp; Policy Research</div>
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">Computational Analysis of Digital Sovereignty Discourse</span>
+            <span class="project-date">2025</span>
+        </div>
+        <span class="project-meta">M.A. Thesis Project | TU Darmstadt</span>
+        <div class="project-desc">
+            A methodological focus project exploring text-as-data approaches. This research utilized advanced computational techniques to comparatively analyze the structural differences between Chinese and EU digital sovereignty narratives.
+        </div>
+    </div>
 
     <div class="project-container">
         <div class="project-header">
@@ -101,7 +110,18 @@ layout: null
         </div>
         <span class="project-meta">Funded by: DAAD / CIVICA | Hertie School</span>
         <div class="project-desc">
-            A pan-European collaborative effort to audit digital trade regulations. I was responsible for the systematic data collection and policy auditing of China’s digital trade regulatory landscape.
+            A pan-European collaborative effort to audit digital trade regulations. Responsible for the systematic data collection and policy auditing of China’s digital trade regulatory landscape.
+        </div>
+    </div>
+
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">China’s Paradox in Global Climate Governance</span>
+            <span class="project-date">2016</span>
+        </div>
+        <span class="project-meta">Double M.A. Thesis Project | LUISS Guido Carli & CFAU</span>
+        <div class="project-desc">
+            Investigated the evolution of responsibility and policy paradigms in China’s foreign climate policy from the Bali Summit to the Paris Agreement.
         </div>
     </div>
 
@@ -115,6 +135,18 @@ layout: null
             Policy-oriented research conducted for the <strong>Ministry of Finance of China</strong>, focusing on the evolution of international welfare cooperation and climate financing mechanisms among major emerging economies.
         </div>
     </div>
+
+    <div class="project-container">
+        <div class="project-header">
+            <span class="project-title">Strategic Reassurance and China’s Rise</span>
+            <span class="project-date">2010</span>
+        </div>
+        <span class="project-meta">B.A. Thesis Project | China Foreign Affairs University (CFAU)</span>
+        <div class="project-desc">
+            Early fundamental research analyzing the diplomatic strategies employed by emerging powers to mitigate security dilemmas in the international system.
+        </div>
+    </div>
+
 </section>
 
 <div class="section-title">Academic Service</div>
