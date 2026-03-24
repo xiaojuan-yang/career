@@ -49,6 +49,28 @@ layout: null
 
 <div class="project-container">
     <div class="project-header">
+        <span class="project-title">Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</span>
+        <span class="project-date">2020 – 2026</span>
+    </div>
+    <span class="project-meta">PhD Dissertation | Freie Universität Berlin</span>
+    <div class="project-desc">
+        An investigation into the strategic alignment between China and Russia in global cyber governance.
+    </div>
+    <div class="project-outputs">
+        <span class="output-label">Selected Outputs</span>
+        <div class="output-item">Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War" (<span class="venue">Legal and Ethical Issues of Chilling Effect by Springer International</span>, 2026).</div>
+        <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
+        <div class="output-item">Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order: Implications for the Digital Silk Road" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</div>
+        <div class="output-item">Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</div>
+        <div class="output-item">Draft paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
+        <div class="output-item">Draft paper presented at <strong>IPSA World Congress</strong> (Seoul 2025).</div>
+        <div class="output-item">Draft paper presented at <strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
+        <div class="output-item">Draft paper presented at <strong>Royal Geographical Society Annual Conference </strong> (Virtual 2020).</div>
+    </div>
+</div>
+
+<div class="project-container">
+    <div class="project-header">
         <span class="project-title">Digital Sovereignty in Comparative Perspective</span>
         <span class="project-date">2024 – 2025</span>
     </div>
@@ -66,24 +88,7 @@ layout: null
     </div>
 </div>
 
-<div class="project-container">
-    <div class="project-header">
-        <span class="project-title">Aligning for Cyber Sovereignty: Sino-Russian Norm Promotion</span>
-        <span class="project-date">2020 – 2026</span>
-    </div>
-    <span class="project-meta">PhD Dissertation | Freie Universität Berlin</span>
-    <div class="project-desc">
-        An investigation into the strategic alignment between China and Russia in global cyber governance.
-    </div>
-    <div class="project-outputs">
-        <span class="output-label">Selected Outputs</span>
-        <div class="output-item">Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</div>
-        <div class="output-item">Draft paper presented at <strong>APSA Annual Meeting</strong> (Vancouver 2025, Philadelphia 2024).</div>
-        <div class="output-item">Draft paper presented at <strong>IPSA World Congress</strong> (Seoul 2025).</div>
-        <div class="output-item">Draft paper presented at <strong>EISA Annual Conference</strong> (Potsdam 2023, Lily 2024, Bologna 2025).</div>
-        <div class="output-item">Draft paper presented at <strong>Royal Geographical Society Annual Conference </strong> (Virtual 2020).</div>
-    </div>
-</div>
+
 
 <div class="section-title">Collaborative & Policy Research</div>
 

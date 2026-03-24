@@ -77,7 +77,7 @@ layout: null
 
 <div class="highlight-card">
     <span class="tag-pill">Selected Publication</span>
-    <div>"Foundational vs. Functional: Competing Logics of Digital Sovereignty" - <strong>R&R at International Affairs</strong>.</div>
+    <div>"Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War" - <strong>Legal and Ethical Issues of Chilling Effect by Springer International</strong>.</div>
 </div>
 
 <div class="highlight-card">
