@@ -160,7 +160,7 @@ layout: null
 
     <div class="project-container">
         <div class="project-header">
-            <span class="project-title">Media Framing and Agenda Setting: The New York Times on the Beijing Olympics</span>
+            <span class="project-title">The New York Times Reportage on the Beijing Olympics</span>
             <span class="project-date">2008</span>
         </div>
         <span class="project-meta">B.A. Thesis Project | Zhejiang Normal University (ZJNU)</span>
