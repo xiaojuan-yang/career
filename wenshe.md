@@ -1,3 +1,6 @@
+---
+layout: null
+---
 # Wenshe (文社): Academic Leadership
 
 [Back to Home](index.html)

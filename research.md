@@ -1,3 +1,6 @@
+---
+layout: null
+---
 # Research Profile
 
 [Back to Home](index.html)

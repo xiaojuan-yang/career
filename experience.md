@@ -1,3 +1,6 @@
+---
+layout: null
+---
 # Applied Analysis & Consulting
 
 [Back to Home](index.html)
