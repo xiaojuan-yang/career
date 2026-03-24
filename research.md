@@ -120,6 +120,7 @@ layout: null
 
 <h2>Academic Service</h2>
 <ul class="simple-list">
+    <li><strong>Guest Lectuer:</strong> SWING Internet Goverannce School (2025,2026).</li>
     <li><strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</li>
     <li><strong>Panel Discussant:</strong> IPSA World Congress, Seoul (2025).</li>
     <li><strong>Co-founder:</strong> Wenshe Academic Community (2021-Present).</li>

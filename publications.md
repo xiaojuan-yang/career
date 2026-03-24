@@ -50,7 +50,7 @@ layout: null
 <ul class="pub-list">
     <li class="pub-item">
         <span class="status-tag tag-rr">R&R</span>
-        <strong>Yang, G. X.</strong> "Foundational vs. Functional: Competing Logics of Digital Sovereignty." Revise and Resubmit at <span class="venue">International Affairs</span>.
+        <strong>Yang, G. X.</strong> "Foundational vs. Functional: Competing Logics of Digital Sovereignty." Revise and Resubmit <span class="venue"></span>.
     </li>
 </ul>
 
@@ -79,10 +79,14 @@ layout: null
     <li><span class="talk-year">[2025]</span> <strong>American Political Science Association (APSA) Annual Meeting</strong>. Vancouver, Canada.</li>
     <li><span class="talk-year">[2025]</span> <strong>International Political Science Association (IPSA) World Congress</strong>. Seoul, South Korea.</li>
     <li><span class="talk-year">[2025]</span> <strong>European Consortium for Political Research (ECPR) General Conference</strong>.</li>
-    <li><span class="talk-year">[2025]</span> <strong>GigaNet Annual Symposium</strong>.</li>
     <li><span class="talk-year">[2025]</span> <strong>European International Studies Association (EISA) Pan-European Conference</strong>. Bologna, Italy.</li>
+    <li><span class="talk-year">[2025]</span> <strong>GigaNet Annual Symposium</strong>.</li>
+    <li><span class="talk-year">[2025]</span> <strong>COMPTEXT Annual Conference</strong>. Vienna, Austria.</li>
+    <li><span class="talk-year">[2024]</span> <strong>Security Conference by OSCE Academy</strong>. Bishkek, Kyrgyzstan.</li>
     <li><span class="talk-year">[2024]</span> <strong>American Political Science Association (APSA) Annual Meeting</strong>. Philadelphia, USA.</li>
     <li><span class="talk-year">[2024]</span> <strong>EISA Pan-European Conference</strong>. Lille, France.</li>
+    <li><span class="talk-year">[2024]</span> <strong>COMPTEXT Annual Conference</strong>. Amersterdam, Netherlands.</li>
+    <li><span class="talk-year">[2023]</span> <strong>Eurasian Research on Modern China and Eurasia Conference</strong>. Yerevan, Armenia.</li>
     <li><span class="talk-year">[2023]</span> <strong>EISA Pan-European Conference</strong>. Potsdam, Germany.</li>
 </ul>
 

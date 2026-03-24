@@ -84,19 +84,15 @@ layout: null
 <ul class="news-list">
     <li>
         <span class="news-date">[Mar 2026]</span>
-        <div class="news-content">My article "Foundational vs. Functional: Competing Logics of Digital Sovereignty" received an <span class="highlight-text">R&R at International Affairs</span>.</div>
+        <div class="news-content">My article "Foundational vs. Functional: Competing Logics of Digital Sovereignty" received an <span class="highlight-text">R&R</span>.</div>
     </li>
     <li>
         <span class="news-date">[Feb 2026]</span>
         <div class="news-content">Invited as a Peer Reviewer for <em>The Journal of Current Chinese Affairs</em> (Sage).</div>
     </li>
     <li>
-        <span class="news-date">[Aug 2025]</span>
-        <div class="news-content">Presented findings on Sino-Russian norm promotion at the <strong>APSA Annual Meeting</strong> (Vancouver, Canada) and <strong>IPSA World Congress</strong> (Seoul, South Korea).</div>
-    </li>
-    <li>
         <span class="news-date">[2024-2025]</span>
-        <div class="news-content">Served as an <strong>Independent Researcher</strong> at the University of Salerno, funded by the Italian Ministry of University and Research (PRIN 2022) and EU-NextGenerationEU.</div>
+        <div class="news-content">Served as an <strong>Researcher</strong> at the University of Salerno, funded by the Italian Ministry of University and Research (PRIN 2022) and EU-NextGenerationEU.</div>
     </li>
     <li>
         <span class="news-date">[Methodology]</span>
