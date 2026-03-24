@@ -3,7 +3,7 @@ layout: null
 ---
 <head>
     <meta charset="UTF-8">
-    <title>Policy & Strategic Consulting | Grace X. Yang</title>
+    <title>Policy & Practice | Grace X. Yang</title>
     <style>
         body { font-family: "Inter", "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #2c3e50; max-width: 900px; margin: 0 auto; padding: 80px 40px; background-color: #fff; }
         a { color: #2980b9; text-decoration: none; border-bottom: 1px solid transparent; transition: 0.3s; }
@@ -31,12 +31,12 @@ layout: null
 <div class="nav">
     <a href="index.html">Home</a>
     <a href="research.html">Research</a>
-    <a href="consultancy.html">Consultancy</a>
+    <a href="practice.html">Practice</a>
 </div>
 
-<h1 style="font-size: 2.5em; letter-spacing: -1px; margin-bottom: 10px;">Policy & Strategic Consulting</h1>
+<h1 style="font-size: 2.5em; letter-spacing: -1px; margin-bottom: 10px;">Policy & Practice</h1>
 <p style="font-size: 1.2em; color: #7f8c8d; font-weight: 300; margin-bottom: 50px;">
-    Translating academic rigor into actionable intelligence. I apply <strong>computational methods</strong> and <strong>International Relations frameworks</strong> to solve complex challenges in digital policy, market entry, and cross-cultural strategic communication.
+    Bridging academic research with real-world application. My professional background in digital strategy, market intelligence, and global media informs my theoretical understanding of cross-border data flows and digital governance.
 </p>
 
 <div class="section-title">Digital Policy & Market Intelligence</div>

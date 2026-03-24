@@ -61,7 +61,7 @@ layout: null
 <div class="nav">
     <a href="index.html">Home</a>
     <a href="research.html">Research</a>
-    <a href="consultancy.html">Consultancy</a>
+    <a href="practice.html">Practice</a>
 </div>
 
 <div class="vision-text">
