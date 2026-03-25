@@ -67,7 +67,6 @@ layout: null
     </div>
     <ul class="output-list">
         <li><span class="status-tag">Forthcoming</span> Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect</span>, Springer International Publishing, 2026).</li>
-        <li><span class="status-tag">Published</span> Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</li>
         <li><span class="status-tag">Published</span> Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</li>
         <li><span class="status-tag">Published</span> Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</li>
         <li><span class="status-tag">Presentations</span> Findings presented at premier global venues, including <strong>EISA</strong> (2023-2025), <strong>APSA</strong> (2024, 2025), <strong>IPSA</strong> (2025), and <strong>ECPR</strong> (2025).</li>
@@ -87,6 +86,7 @@ layout: null
     </div>
     <ul class="output-list">
         <li><span class="status-tag">R&R</span> Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (<span class="venue"></span>).</li>
+        <li><span class="status-tag">Published</span> Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</li>
         <li><span class="status-tag">Presentations</span> Findings presented at <strong>GigaNet</strong> (2025), <strong>IPSA</strong> (2025), and <strong>ECPR</strong> (2025).</li>
     </ul>
 </div>
