@@ -75,21 +75,7 @@ layout: null
     </li>
 </ul>
 
-<h2>Selected Conference Presentations</h2>
-<ul class="talk-list">
-    <li><span class="talk-year">[2025]</span> <strong>American Political Science Association (APSA) Annual Meeting</strong>. Vancouver, Canada.</li>
-    <li><span class="talk-year">[2025]</span> <strong>International Political Science Association (IPSA) World Congress</strong>. Seoul, South Korea.</li>
-    <li><span class="talk-year">[2025]</span> <strong>European Consortium for Political Research (ECPR) General Conference</strong>.</li>
-    <li><span class="talk-year">[2025]</span> <strong>European International Studies Association (EISA) Pan-European Conference</strong>. Bologna, Italy.</li>
-    <li><span class="talk-year">[2025]</span> <strong>GigaNet Annual Symposium</strong>.</li>
-    <li><span class="talk-year">[2025]</span> <strong>COMPTEXT Annual Conference</strong>. Vienna, Austria.</li>
-    <li><span class="talk-year">[2024]</span> <strong>Security Conference by OSCE Academy</strong>. Bishkek, Kyrgyzstan.</li>
-    <li><span class="talk-year">[2024]</span> <strong>American Political Science Association (APSA) Annual Meeting</strong>. Philadelphia, USA.</li>
-    <li><span class="talk-year">[2024]</span> <strong>EISA Pan-European Conference</strong>. Lille, France.</li>
-    <li><span class="talk-year">[2024]</span> <strong>COMPTEXT Annual Conference</strong>. Amersterdam, Netherlands.</li>
-    <li><span class="talk-year">[2023]</span> <strong>Eurasian Research on Modern China and Eurasia Conference</strong>. Yerevan, Armenia.</li>
-    <li><span class="talk-year">[2023]</span> <strong>EISA Pan-European Conference</strong>. Potsdam, Germany.</li>
-</ul>
+
 
 <p style="margin-top: 60px; color: #999; font-size: 0.8em; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
     &copy; 2026 Grace X. Yang. Last Updated: March 2026.
