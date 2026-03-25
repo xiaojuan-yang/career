@@ -27,7 +27,7 @@ layout: null
         .social-icons a:hover { color: #0056b3; }
         
         /* 高密度导航栏 */
-        .nav { display: flex; gap: 25px; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 10px 0; margin-bottom: 30px; }
+        .nav { display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 40px; }
         .nav a { font-weight: 600; color: #333; text-transform: uppercase; font-size: 0.9em; letter-spacing: 0.5px; }
 
         /* 内容标题 */

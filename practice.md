@@ -11,7 +11,7 @@ layout: null
         a:hover { text-decoration: underline; }
         
         /* 高密度导航栏 */
-        .nav { display: flex; gap: 25px; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 40px; }
+        .nav { display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 40px; }
         .nav a { font-weight: 600; color: #333; text-transform: uppercase; font-size: 0.9em; letter-spacing: 0.5px; }
 
         /* 标题排版 */
