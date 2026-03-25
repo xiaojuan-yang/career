@@ -57,21 +57,6 @@ layout: null
     </li>
 </ul>
 
-<h2>Teaching</h2>
-<ul class="dense-list">
-    <li>
-        <span class="role-title">Guest Lecturer</span>, "Digital Governance in China: Logic and Policies", <em>Internet Governance Winter School (SWING)</em>. <span class="date-right">Feb 2025</span>
-    </li>
-    <li>
-        <span class="role-title">Guest Lecturer</span>, "Cyberwarfare in the Russia-Ukraine War", <em>Wenshe Academic Community</em>. <span class="date-right">May 2022</span>
-    </li>
-    <li>
-        <span class="role-title">Guest Lecturer</span>, "Introduction to Western International Relations Theory", <em>Wenshe Academic Community</em>. <span class="date-right">Jul 2021</span>
-    </li>
-    <li>
-        <span class="role-title">Pedagogical Training</span>, Higher Education Teaching Certificate, <em>Freie Universität Berlin</em>. <span class="date-right">Expected 2026</span>
-    </li>
-</ul>
 
 <h2>Professional & Policy Experience</h2>
 <ul class="dense-list">

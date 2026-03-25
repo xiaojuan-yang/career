@@ -47,7 +47,7 @@ layout: null
     <a href="research.html">Research</a>
     <a href="publications.html">Publications</a>
     <a href="talks.html">Talks</a>
-    <a href="practice.html">Practice</a>
+    <a href="practice.html">Service & Exp</a>
 </div>
 
 <h1>Talks & Presentations</h1>
