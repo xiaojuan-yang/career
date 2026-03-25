@@ -3,30 +3,30 @@ layout: null
 ---
 <head>
     <meta charset="UTF-8">
-    <title>Policy & Practice | Grace X. Yang</title>
+    <meta name="description" content="Academic service, teaching, and professional experience of Grace X. Yang.">
+    <title>Service & Experience | Grace X. Yang</title>
     <style>
-        /* 采用极简高密度字体设置 */
+        /* 保持极简高密度字体设置 */
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.6; color: #333; max-width: 860px; margin: 0 auto; padding: 50px 30px; background-color: #fff; }
         a { color: #0056b3; text-decoration: none; }
         a:hover { text-decoration: underline; }
         
-        /* 高密度导航栏 */
+        /* 导航栏 */
         .nav { display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 40px; }
         .nav a { font-weight: 600; color: #333; text-transform: uppercase; font-size: 0.9em; letter-spacing: 0.5px; }
 
-        /* 标题排版 */
         h1 { margin: 0 0 20px 0; font-size: 2.2em; font-weight: 700; color: #111; letter-spacing: -0.5px; }
-        h2 { font-size: 1.3em; color: #111; border-bottom: 2px solid #333; padding-bottom: 5px; margin-top: 40px; margin-bottom: 25px; text-transform: uppercase; letter-spacing: 0.5px; }
-        
-        .intro { font-size: 1.05em; margin-bottom: 40px; text-align: justify; color: #444; }
+        h2 { font-size: 1.3em; color: #111; border-bottom: 2px solid #333; padding-bottom: 5px; margin-top: 40px; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 0.5px; }
 
-        /* 项目列表样式 (极简文本流) */
-        .project-item { margin-bottom: 35px; }
-        .project-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px; }
-        .project-title { font-size: 1.15em; font-weight: 700; color: #111; }
-        .project-time { font-size: 0.9em; color: #666; font-weight: 600; }
-        .project-meta { font-size: 0.9em; color: #0056b3; font-weight: 600; margin-bottom: 8px; display: block; }
-        .project-desc { font-size: 0.95em; color: #333; margin-bottom: 12px; text-align: justify; }
+        /* 高密度列表 (仿 Yang Yan 风格) */
+        .dense-list { list-style: none; padding: 0; margin: 0; font-size: 0.95em; color: #333; }
+        .dense-list li { margin-bottom: 15px; padding-left: 20px; text-indent: -20px; }
+        .dense-list strong { color: #111; font-weight: 600; }
+        .dense-list em { color: #444; }
+        
+        /* 角色与机构高亮 */
+        .role-title { color: #0056b3; font-weight: 600; }
+        .date-right { float: right; color: #666; font-weight: 600; font-size: 0.9em; margin-top: 2px; }
     </style>
 </head>
 <body>
@@ -36,61 +36,62 @@ layout: null
     <a href="research.html">Research</a>
     <a href="publications.html">Publications</a>
     <a href="talks.html">Talks</a>
-    <a href="practice.html">Practice</a>
+    <a href="service.html">Service & Exp</a>
 </div>
 
-<h1>Policy & Practice</h1>
-<div class="intro">
-    Bridging academic research with real-world application. My professional background in digital strategy, market intelligence, and global media informs my empirical understanding of cross-border data flows and digital governance.
-</div>
+<h1>Service, Teaching & Experience</h1>
 
-<h2>Digital Policy & Market Intelligence</h2>
+<h2>Academic Service</h2>
+<ul class="dense-list">
+    <li>
+        <span class="role-title">Invited Reviewer</span>, <em>The Journal of Current Chinese Affairs</em> (Sage). <span class="date-right">2025 – Present</span>
+    </li>
+    <li>
+        <span class="role-title">Session Convener</span>, "Digital Sovereignty", Critical Infrastructure Lab Retreat. <span class="date-right">Jul 2025</span>
+    </li>
+    <li>
+        <span class="role-title">Panel Discussant</span>, IPSA World Congress, Seoul, South Korea. <span class="date-right">Jul 2025</span>
+    </li>
+    <li>
+        <span class="role-title">Co-founder & Core Organizer</span>, Wenshe Academic Community (Humanity and Social Science Community of PhD Candidates). <span class="date-right">2021 – Present</span>
+    </li>
+</ul>
 
-<div class="project-item">
-    <div class="project-header">
-        <span class="project-title">Onion Global</span>
-        <span class="project-time">2017 – 2022</span>
-    </div>
-    <span class="project-meta">Digital Strategy Lead & Project Manager | E-commerce & Digital Marketing</span>
-    <div class="project-desc">
-        Managed a large-scale social e-commerce network comprising 500+ content creators and affiliates. Directed data-driven digital marketing campaigns and localized advertising strategies to drive sales and optimize brand engagement across international markets. This hands-on commercial experience built strong capacities in agile project management, team leadership, and cross-cultural consumer analysis.
-    </div>
-</div>
+<h2>Teaching</h2>
+<ul class="dense-list">
+    <li>
+        <span class="role-title">Guest Lecturer</span>, "Digital Governance in China: Logic and Policies", <em>Internet Governance Winter School (SWING)</em>. <span class="date-right">Feb 2025</span>
+    </li>
+    <li>
+        <span class="role-title">Guest Lecturer</span>, "Cyberwarfare in the Russia-Ukraine War", <em>Wenshe Academic Community</em>. <span class="date-right">May 2022</span>
+    </li>
+    <li>
+        <span class="role-title">Guest Lecturer</span>, "Introduction to Western International Relations Theory", <em>Wenshe Academic Community</em>. <span class="date-right">Jul 2021</span>
+    </li>
+    <li>
+        <span class="role-title">Pedagogical Training</span>, Higher Education Teaching Certificate, <em>Freie Universität Berlin</em>. <span class="date-right">Expected 2026</span>
+    </li>
+</ul>
 
-<div class="project-item">
-    <div class="project-header">
-        <span class="project-title">Kudos Research & Zigarren Herzog (Berlin)</span>
-        <span class="project-time">2016 – 2024</span>
-    </div>
-    <span class="project-meta">Strategic Consultant | Risk & Insight Analysis</span>
-    <div class="project-desc">
-        Provided actionable intelligence for multinational enterprises navigating the Chinese market. Conducted in-depth qualitative analysis, regulatory risk assessments, and localized digital strategies to mitigate cross-cultural and compliance risks.
-    </div>
-</div>
-
-<h2>Global Public Affairs & Communication</h2>
-
-<div class="project-item">
-    <div class="project-header">
-        <span class="project-title">China Foundation for International Studies (CFIS) & Sohu.com</span>
-        <span class="project-time">2009 – 2014</span>
-    </div>
-    <span class="project-meta">International Affairs Curator & Digital Editor | Digital Public Diplomacy</span>
-    <div class="project-desc">
-        Managed the digital presence for a state-level think tank. Specialized in translating complex geopolitical shifts and global governance discourse into accessible public policy narratives for high-traffic digital platforms.
-    </div>
-</div>
-
-<div class="project-item">
-    <div class="project-header">
-        <span class="project-title">European Times (Rome)</span>
-        <span class="project-time">2015 – 2016</span>
-    </div>
-    <span class="project-meta">Foreign Correspondent | Regional Dynamics</span>
-    <div class="project-desc">
-        Conducted on-the-ground reporting on the evolving socioeconomic and political dynamics between the EU and China. Synthesized multilingual data to provide cross-regional audiences with empirical insights into bilateral relations.
-    </div>
-</div>
+<h2>Professional & Policy Experience</h2>
+<ul class="dense-list">
+    <li>
+        <span class="role-title">Strategic Consultant (Risk & Insight Analysis)</span>, <em>Kudos Research & Zigarren Herzog</em>, Berlin, Germany. <span class="date-right">2016 – 2024</span><br>
+        <span style="display:block; text-indent: 0; padding-left: 20px; font-size: 0.9em; color: #555; margin-top: 4px;">Provided risk assessment and localized digital strategies for multinational enterprises navigating the Chinese market.</span>
+    </li>
+    <li>
+        <span class="role-title">Digital Strategy Lead & Project Manager</span>, <em>Onion Global</em>. <span class="date-right">2017 – 2022</span><br>
+        <span style="display:block; text-indent: 0; padding-left: 20px; font-size: 0.9em; color: #555; margin-top: 4px;">Directed data-driven marketing campaigns and managed a cross-border digital network of 500+ content creators.</span>
+    </li>
+    <li>
+        <span class="role-title">Foreign Correspondent</span>, <em>European Times</em>, Rome, Italy. <span class="date-right">2015 – 2016</span><br>
+        <span style="display:block; text-indent: 0; padding-left: 20px; font-size: 0.9em; color: #555; margin-top: 4px;">Reported on EU-China socioeconomic dynamics, synthesizing multilingual data for cross-regional policy audiences.</span>
+    </li>
+    <li>
+        <span class="role-title">International Affairs Curator & Digital Editor</span>, <em>China Foundation for International Studies (CFIS) & Sohu.com</em>. <span class="date-right">2009 – 2014</span><br>
+        <span style="display:block; text-indent: 0; padding-left: 20px; font-size: 0.9em; color: #555; margin-top: 4px;">Managed digital public diplomacy narratives and global governance discourse for a state-level think tank.</span>
+    </li>
+</ul>
 
 <p style="margin-top: 60px; color: #999; font-size: 0.8em; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
     &copy; 2026 Grace X. Yang. Last Updated: March 2026.
