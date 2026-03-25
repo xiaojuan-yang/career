@@ -107,8 +107,8 @@ layout: null
 <h2>Academic Trajectory</h2>
 <ul class="traj-list">
     <li><strong>Ph.D. in International Relations</strong> | Freie Universität Berlin <em>(Expected 2026)</em></li>
-    <li><strong>M.A. in Data and Discourse Studies</strong> | TU Darmstadt <em>(2025)</em><br><span style="color:#666; font-size:0.9em;">Specialization: Computational Text-as-Data Methodologies</span></li>
-    <li><strong>Double M.A. in International Relations</strong> | LUISS Guido Carli, Italy & China Foreign Affairs University <em>(2016)</em></li>
+    <li><strong>M.A. in Data and Discourse Studies</strong> | TU Darmstadt <em></em><br><span style="color:#666; font-size:0.9em;">Specialization: Computational Text-as-Data Methodologies</span></li>
+    <li><strong>Double M.A. in International Relations</strong> | LUISS Guido Carli, Italy & China Foreign Affairs University <em></em></li>
     <li><strong>Double B.A. in Diplomatic Studies & English Literature</strong> | CFAU & ZJNU</li>
 </ul>
 
