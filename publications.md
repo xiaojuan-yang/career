@@ -45,7 +45,7 @@ layout: null
     <a href="practice.html">Practice</a>
 </div>
 
-<h1>Publications & Talks</h1>
+<h1>Publications</h1>
 
 <h2>Under Review & Working Papers</h2>
 <ul class="pub-list">

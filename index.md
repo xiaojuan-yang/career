@@ -3,6 +3,8 @@ layout: null
 ---
 <head>
     <meta charset="UTF-8">
+    <meta name="description" content="Grace X. Yang is a Ph.D. Candidate in International Relations at Freie Universität Berlin, specializing in Global Cyber Governance, Digital Sovereignty, and Computational IR.">
+    <meta name="author" content="Grace X. Yang">
     <title>Grace X. Yang | Cyber Governance & Computational IR</title>
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
