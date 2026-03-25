@@ -119,13 +119,6 @@ layout: null
     <li><strong>Computational Expertise:</strong> Proficient in Python (NLP, Text-as-Data, Web Scraping). Developing customized automated pipelines to provide robust quantitative backbones for qualitative empirical research and comparative policy analysis.</li>
 </ul>
 
-<h2>Academic Service</h2>
-<ul class="simple-list">
-    <li><strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</li>
-    <li><strong>Organization Committee:</strong> GigArts Annual Conference on Digital Sovereignty, Salerno (2025).</li>
-    <li><strong>Co-founder:</strong> Wenshe Academic Community (2021-Present).</li>
-    <li><strong>Pedagogical Training:</strong> Higher Education Teaching Certificate, Freie Universität Berlin (Expected 2026).</li>
-</ul>
 
 <p style="margin-top: 60px; color: #999; font-size: 0.8em; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
     &copy; 2026 Grace X. Yang. Last Updated: March 2026.
