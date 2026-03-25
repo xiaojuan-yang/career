@@ -96,7 +96,7 @@ layout: null
     </li>
     <li>
         <span class="news-date">[2024-2025]</span>
-        <div class="news-content">Served as an <strong>Researcher</strong> at the University of Salerno, funded by the Italian Ministry of University and Research (PRIN 2022) and EU-NextGenerationEU.</div>
+        <div class="news-content">Received a <strong>research grant</strong> from the University of Salerno, funded by the Italian Ministry of University and Research (PRIN 2022) and EU-NextGenerationEU.</div>
     </li>
     <li>
         <span class="news-date">[Methodology]</span>
