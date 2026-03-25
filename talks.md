@@ -55,7 +55,7 @@ layout: null
     I actively engage in academic conferences, research retreats, and public lectures to present findings on global cyber governance. I am open to invitations for guest lectures and panel discussions on digital sovereignty, Sino-Russian alignment, and computational text-as-data methods.
 </div>
 
-<h2>Invited Lectures & Academic Service</h2>
+<h2>Invited Lectures</h2>
 
 <div class="invited-item">
     <div class="invited-header">
