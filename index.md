@@ -73,6 +73,7 @@ layout: null
     <a href="index.html">Home</a>
     <a href="research.html">Research</a>
     <a href="publications.html">Publications</a>
+    <a href="talks.html">Talks</a>
     <a href="practice.html">Practice</a>
 </div>
 

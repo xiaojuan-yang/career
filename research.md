@@ -45,6 +45,7 @@ layout: null
     <a href="index.html">Home</a>
     <a href="research.html">Research</a>
     <a href="publications.html">Publications</a>
+    <a href="talks.html">Talks</a>
     <a href="practice.html">Practice</a>
 </div>
 
@@ -85,7 +86,7 @@ layout: null
         Based at the <strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace, developing a comparative framework for how different jurisdictions balance digital sovereignty with fundamental rights.
     </div>
     <ul class="output-list">
-        <li><span class="status-tag">R&R</span> Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (<span class="venue">International Affairs</span>).</li>
+        <li><span class="status-tag">R&R</span> Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (<span class="venue"></span>).</li>
         <li><span class="status-tag">Presentations</span> Findings presented at <strong>GigaNet</strong> (2025), <strong>IPSA</strong> (2025), and <strong>ECPR</strong> (2025).</li>
     </ul>
 </div>
@@ -120,9 +121,8 @@ layout: null
 
 <h2>Academic Service</h2>
 <ul class="simple-list">
-    <li><strong>Guest Lectuer:</strong> SWING Internet Goverannce School (2025,2026).</li>
     <li><strong>Invited Reviewer:</strong> <em>The Journal of Current Chinese Affairs</em> (Sage, 2025).</li>
-    <li><strong>Panel Discussant:</strong> IPSA World Congress, Seoul (2025).</li>
+    <li><strong>Organization Committee:</strong> GigArts Annual Conference on Digital Sovereignty, Salerno (2025).</li>
     <li><strong>Co-founder:</strong> Wenshe Academic Community (2021-Present).</li>
     <li><strong>Pedagogical Training:</strong> Higher Education Teaching Certificate, Freie Universität Berlin (Expected 2026).</li>
 </ul>
