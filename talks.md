@@ -77,11 +77,11 @@ layout: null
 
 <div class="invited-item">
     <div class="invited-header">
-        <span class="invited-role">Panel Speaker & Discussant</span>
+        <span class="invited-role">Discussant</span>
         <span class="invited-venue">Wenshe Academic Community</span>
-        <span class="invited-date">2021 – Present</span>
+        <span class="invited-date">May 2025</span>
     </div>
-    <div class="invited-topic"><strong>Topics:</strong> Sino-US-EU digital sovereignty, Russia-Ukraine cyberwarfare, International Relations theories, Chinese climate governance, and US-China trade war.</div>
+    <div class="invited-topic"><strong>Topics:</strong>US-China Trade War</div>
 </div>
 
 <div class="invited-item">
