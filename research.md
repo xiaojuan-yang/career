@@ -85,7 +85,7 @@ layout: null
         Based at the <strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace, developing a comparative framework for how different jurisdictions balance digital sovereignty with fundamental rights.
     </div>
     <ul class="output-list">
-        <li><span class="status-tag">R&R</span> Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" (<span class="venue"></span>).</li>
+        <li><span class="status-tag">R&R</span> Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" <span class="venue"></span>.</li>
         <li><span class="status-tag">Published</span> Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</li>
         <li><span class="status-tag">Presentations</span> Findings presented at <strong>GigaNet</strong> (2025), <strong>IPSA</strong> (2025), and <strong>ECPR</strong> (2025).</li>
     </ul>
