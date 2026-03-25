@@ -3,7 +3,7 @@ layout: null
 ---
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Academic service, teaching, and professional experience of Grace X. Yang.">
+    <meta name="description" content="Academic service and professional experience of Grace X. Yang.">
     <title>Service & Experience | Grace X. Yang</title>
     <style>
         /* 保持极简高密度字体设置 */
@@ -39,7 +39,7 @@ layout: null
     <a href="service.html">Service & Exp</a>
 </div>
 
-<h1>Service, Teaching & Experience</h1>
+<h1>Service & Experience</h1>
 
 <h2>Academic Service</h2>
 <ul class="dense-list">
