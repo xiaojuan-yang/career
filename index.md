@@ -65,8 +65,8 @@ layout: null
         
         <div class="social-icons">
             <a href="mailto:Graceyang_pro@outlook.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            <a href="https://www.linkedin.com/in/xiaojuan-yang/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-            <a href="https://github.com/xiaojuan-yang" title="GitHub"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/gracexyang/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://github.com/gracexyang" title="GitHub"><i class="fa-brands fa-github"></i></a>
             <a href="https://scholar.google.de/citations?user=enR94HEAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
         </div>
     </div>
