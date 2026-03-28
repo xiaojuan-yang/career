@@ -52,11 +52,9 @@ layout: null
     <li>
         <span class="role-title">Panel Discussant</span>, IPSA World Congress, Seoul, South Korea. <span class="date-right">Jul 2025</span>
     </li>
-
     <li>
         <span class="role-title">Founder & Principle Investigator</span>, Berlin Institute for Digital Strategy (BIDS). <span class="date-right">2024 – Present</span>
     </li>
-
     <li>
         <span class="role-title">Co-founder & Core Organizer</span>, Wenshe Academic Community (Humanity and Social Science Community of PhD Candidates). <span class="date-right">2021 – Present</span>
     </li>
