@@ -54,7 +54,7 @@ layout: null
     </li>
 
     <li>
-        <span class="role-title">Founder & Principle Investigator</span>, Berlin Institute of Digital Strategy (BIDS). <span class="date-right">2024 – Present</span>
+        <span class="role-title">Founder & Principle Investigator</span>, Berlin Institute for Digital Strategy (BIDS). <span class="date-right">2024 – Present</span>
     </li>
 
     <li>
