@@ -91,6 +91,10 @@ layout: null
         <div class="news-content">My book chapter <em>Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War</em> Springer Nature Switzerland.</div>
     </li>
     <li>
+        <span class="news-date">[Mar 2026]</span>
+        <div class="news-content">My article "Foundational vs. Functional: Competing Logics of Digital Sovereignty" received an <span class="highlight-text">R&R</span>.</div>
+    </li>
+    <li>
         <span class="news-date">[Feb 2026]</span>
         <div class="news-content">Invited as a Peer Reviewer for <em>The Journal of Current Chinese Affairs</em> (Sage).</div>
     </li>
