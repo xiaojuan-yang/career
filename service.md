@@ -54,7 +54,7 @@ layout: null
     </li>
     <li>
         <span class="date-right">2024 – Present</span>
-        <span class="role-title">Founder & Principal Investigator</span>, Berlin Institute for Digital Strategy (BIDS).
+        <span class="role-title">Founder & Principal Investigator</span>, Computational Lab of Digital Geopolitics (CLDG).
     </li>
     <li>
         <span class="role-title">Co-founder & Core Organizer</span>, Wenshe Academic Community (Humanity and Social Science Community of PhD Candidates). <span class="date-right">2021 – Present</span>
