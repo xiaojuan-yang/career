@@ -81,14 +81,14 @@ layout: null
 </div>
 
 <div class="bio-text">
-    I am a researcher investigating how emerging technologies reshape the foundational norms of global politics. By bridging <strong>International Relations theory</strong> with <strong>Computational Social Science</strong>, my work provides data-driven insights into Sino-Russian strategic alignment, cross-border data flows, and the competing logics of digital sovereignty.
+    Decoding the structural power of the digital age. I bridge <strong>International Political Economy<strong> with <strong>Computational Methods<strong> to audit how technology reconfigures global governance. Driven by natural language processing and large-scale empirical data, my work maps infrastructural statecraft, cross-border data flows, and the systemic realities of digital sovereignty.
 </div>
 
 <h2>Recent News & Highlights</h2>
 <ul class="news-list">
     <li>
-        <span class="news-date">[Mar 2026]</span>
-        <div class="news-content">My article "Foundational vs. Functional: Competing Logics of Digital Sovereignty" received an <span class="highlight-text">R&R</span>.</div>
+        <span class="news-date">[Apr 2026]</span>
+        <div class="news-content">My book chapter <em>Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War</em> Springer Nature Switzerland.</div>
     </li>
     <li>
         <span class="news-date">[Feb 2026]</span>
