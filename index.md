@@ -1,6 +1,8 @@
 ---
 layout: null
 ---
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Grace X. Yang is a Ph.D. Candidate in International Relations at Freie Universität Berlin, specializing in Global Cyber Governance, Digital Sovereignty, and Computational IR.">
@@ -81,7 +83,7 @@ layout: null
 </div>
 
 <div class="bio-text">
-    Decoding the structural power of the digital age. I bridge <strong>International Political Economy<strong> with <strong>Computational Methods<strong> to audit how technology reconfigures global governance. Driven by natural language processing and large-scale empirical data, my work maps infrastructural statecraft, cross-border data flows, and the systemic realities of digital sovereignty.
+    Decoding the structural power of the digital age. I bridge <strong>International Political Economy</strong> with <strong>Computational Methods</strong> to audit how technology reconfigures global governance. Driven by natural language processing and large-scale empirical data, my work maps infrastructural statecraft, cross-border data flows, and the systemic realities of digital sovereignty.
 </div>
 
 <h2>Recent News & Highlights</h2>
@@ -121,3 +123,4 @@ layout: null
 </p>
 
 </body>
+</html>
