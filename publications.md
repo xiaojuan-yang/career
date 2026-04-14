@@ -58,8 +58,8 @@ layout: null
 <h2>Peer-Reviewed Articles & Book Chapters</h2>
 <ul class="pub-list">
     <li class="pub-item">
-        <span class="status-tag tag-forthcoming">Forthcoming 2026</span>
-        <strong>Yang, G. X.</strong> "Geopolitics, Knowledge Production, and the Chilling Effect." In <span class="venue">Legal and Ethical Issues of Chilling Effect</span>. Springer International Publishing.
+        <span class="status-tag">Published</span>
+        <strong>Yang, G. X.</strong> (2025). "Geopolitics, Knowledge Production, and the Chilling Effect." In <span class="venue">Legal and Ethical Issues of Chilling Effect</span>. Springer International Publishing.
     </li>
     <li class="pub-item">
         <span class="status-tag">Published</span>

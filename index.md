@@ -90,7 +90,7 @@ layout: null
 <ul class="news-list">
     <li>
         <span class="news-date">[Apr 2026]</span>
-        <div class="news-content">My book chapter <em>Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War</em> Springer Nature Switzerland.</div>
+        <div class="news-content">My book chapter <em>Geopolitics, Knowledge Production, and the Chilling Effect: Chinese Academic Responses to the Russia-Ukraine War</em> is published with Springer Nature Switzerland.</div>
     </li>
     <li>
         <span class="news-date">[Mar 2026]</span>
