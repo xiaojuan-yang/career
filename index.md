@@ -5,6 +5,7 @@ layout: null
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Grace X. Yang is a Ph.D. Candidate in International Relations at Freie Universität Berlin, specializing in Global Cyber Governance, Digital Sovereignty, and Computational IR.">
     <meta name="author" content="Grace X. Yang">
     <meta name="google-site-verification" content="umoXMlkuEx5FGvd1iTzjYPiQiy7ZNA1lWM96-gNoB_k" />
@@ -26,12 +27,12 @@ layout: null
         .header-text h1 { margin: 0 0 10px 0; font-size: 2.2em; font-weight: 700; color: #111; letter-spacing: -0.5px; }
         .header-text p { font-size: 1.05em; color: #444; margin: 0 0 8px 0; }
         
-        /* 社交图标：紧凑且专业 */
+        /* 社交图标 */
         .social-icons { margin-top: 15px; display: flex; gap: 15px; font-size: 1.4em; }
         .social-icons a { color: #555; transition: 0.2s; }
         .social-icons a:hover { color: #0056b3; }
         
-        /* 高密度导航栏 */
+        /* 导航栏 */
         .nav { display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 40px; }
         .nav a { font-weight: 600; color: #333; text-transform: uppercase; font-size: 0.9em; letter-spacing: 0.5px; }
 
@@ -42,17 +43,25 @@ layout: null
         /* 简介文本 */
         .bio-text { font-size: 1.05em; margin-bottom: 20px; text-align: justify; }
 
-        /* 高密度新闻/亮点列表 (关键！) */
+        /* 新闻/亮点列表 */
         .news-list { list-style: none; padding: 0; margin: 0; }
         .news-list li { display: flex; margin-bottom: 12px; font-size: 0.95em; }
         .news-date { min-width: 90px; font-weight: 600; color: #666; font-size: 0.9em; margin-top: 2px; }
         .news-content { flex: 1; }
         
-        /* 紧凑的轨迹列表 */
+        /* 轨迹列表 */
         .traj-list { padding-left: 20px; margin: 0; font-size: 0.95em; }
         .traj-list li { margin-bottom: 8px; }
 
         .highlight-text { background-color: #f1f8ff; padding: 2px 5px; border-radius: 3px; font-weight: 500; color: #0056b3; font-size: 0.9em; }
+
+        /* 手机端适配：防止在手机上排版错乱 */
+        @media (max-width: 600px) {
+            .header-container { flex-direction: column; align-items: center; text-align: center; gap: 20px; }
+            .social-icons { justify-content: center; }
+            .news-list li { flex-direction: column; }
+            .news-date { margin-bottom: 5px; }
+        }
     </style>
 </head>
 <body>
@@ -101,10 +110,6 @@ layout: null
         <div class="news-content">Invited as a Peer Reviewer for <em>The Journal of Current Chinese Affairs</em> (Sage).</div>
     </li>
     <li>
-        <span class="news-date">[2024-2025]</span>
-        <div class="news-content">Received a <strong>research grant</strong> from the University of Salerno, funded by the Italian Ministry of University and Research (PRIN 2022) and EU-NextGenerationEU.</div>
-    </li>
-    <li>
         <span class="news-date">[Methodology]</span>
         <div class="news-content">Currently developing longitudinal <strong>multi-lingual corpora</strong> of cyber governance discourse utilizing custom NLP pipelines and Python text-as-data methods.</div>
     </li>
@@ -119,7 +124,7 @@ layout: null
 </ul>
 
 <p style="margin-top: 60px; color: #999; font-size: 0.8em; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
-    &copy; 2026 Grace X. Yang. Last updated: March 2026.
+    &copy; 2026 Grace X. Yang. Last updated: April 2026.
 </p>
 
 </body>
