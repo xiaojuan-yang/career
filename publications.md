@@ -55,23 +55,28 @@ layout: null
     </li>
 </ul>
 
+
 <h2>Peer-Reviewed Articles & Book Chapters</h2>
 <ul class="pub-list">
     <li class="pub-item">
         <span class="status-tag">Published</span>
-        <strong>Yang, G. X.</strong> (2025). "Geopolitics, Knowledge Production, and the Chilling Effect." In <span class="venue">Legal and Ethical Issues of Chilling Effect</span>. Springer Nature Switzerland.
+        <strong>Yang, G. X.</strong> (2025). "Geopolitics, Knowledge Production, and the Chilling Effect." In <span class="venue">Legal and Ethical Issues of Chilling Effect</span>. Springer Nature Switzerland. 
+        <a href="https://drive.google.com/file/d/1Uk_Q2bMm_xWov8t7Gk0BsK8cO0NNiR_I/view?usp=drive_link" target="_blank" style="font-size: 0.85em; font-weight: 600; margin-left: 5px;">[Full Text]</a>
     </li>
     <li class="pub-item">
         <span class="status-tag">Published</span>
-        <strong>Yang, G. X.</strong> (2025). "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty." <span class="venue">Dialogues on Digital Society</span>.
+        <strong>Yang, G. X.</strong> (2025). "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty." <span class="venue">Dialogues on Digital Society</span>. 
+        <a href="https://journals.sagepub.com/doi/epub/10.1177/29768640251376497" target="_blank" style="font-size: 0.85em; font-weight: 600; margin-left: 5px;">[Full Text]</a>
     </li>
     <li class="pub-item">
         <span class="status-tag">Published</span>
-        <strong>Yang, G. X.</strong> (2025). "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order." In <span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>. Routledge.
+        <strong>Yang, G. X.</strong> (2025). "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order." In <span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>. Routledge. 
+        <a href="https://drive.google.com/file/d/1-CB2tLSXgwcALd-Wv9nHPUz_TvcWgSa2/view?usp=drive_link" target="_blank" style="font-size: 0.85em; font-weight: 600; margin-left: 5px;">[Full Text]</a>
     </li>
     <li class="pub-item">
         <span class="status-tag">Published</span>
-        <strong>Yang, G. X.</strong> (2024). "World Internet Conference and China’s Promotion of Cyber Sovereignty." <span class="venue">ELTE Law Journal</span>.
+        <strong>Yang, G. X.</strong> (2024). "World Internet Conference and China’s Promotion of Cyber Sovereignty." <span class="venue">ELTE Law Journal</span>. 
+        <a href="https://www.researchgate.net/profile/Grace-Yang-43/publication/390300641_World_Internet_Conference_and_China's_Promotion_of_Cyber_Sovereignty/links/67e80d0803b8d7280e1142a0/World-Internet-Conference-and-Chinas-Promotion-of-Cyber-Sovereignty.pdf" target="_blank" style="font-size: 0.85em; font-weight: 600; margin-left: 5px;">[Full Text]</a>
     </li>
 </ul>
 
