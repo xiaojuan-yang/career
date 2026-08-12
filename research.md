@@ -66,7 +66,7 @@ layout: null
         An investigation into the strategic alignment between China and Russia in global cyber governance. Utilizing text-as-data methods to track the evolution of norm entrepreneurship and analyze how non-Western powers coordinate to reshape the digital order.
     </div>
     <ul class="output-list">
-        <li><span class="status-tag">Forthcoming</span> Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect</span>, Springer International Publishing, 2026).</li>
+        <li><span class="status-tag">Published</span> Book Chapter: "Geopolitics, Knowledge Production, and the Chilling Effect" (<span class="venue">Legal and Ethical Issues of Chilling Effect</span>, Springer International Publishing, 2026).</li>
         <li><span class="status-tag">Published</span> Book Chapter: "Sino-Russian Cybersecurity Cooperation in a Multipolar World Order" (<span class="venue">Routledge Handbook of China's Belt and Road Initiative in Eurasia</span>, 2025).</li>
         <li><span class="status-tag">Published</span> Journal Article: "World Internet Conference and China’s Promotion of Cyber Sovereignty" (<span class="venue">ELTE Law Journal</span>, 2024).</li>
         <li><span class="status-tag">Presentations</span> Findings presented at premier global venues, including <strong>EISA</strong> (2023-2025), <strong>APSA</strong> (2024, 2025), <strong>IPSA</strong> (2025), and <strong>ECPR</strong> (2025).</li>
@@ -77,7 +77,7 @@ layout: null
 
 <div class="project-item">
     <div class="project-header">
-        <span class="project-title">Digital Sovereignty in Comparative Perspective</span>
+        <span class="project-title">Digital Sovereignty in Comparative Perspectives</span>
         <span class="project-time">2024 – 2025</span>
     </div>
     <span class="project-meta">Funded by: Italian Ministry of University and Research (PRIN 2022) / EU-NextGenEU</span>
@@ -85,7 +85,7 @@ layout: null
         Based at the <strong>University of Salerno</strong>, this project examined the legal-political contestation of state authority in cyberspace, developing a comparative framework for how different jurisdictions balance digital sovereignty with fundamental rights.
     </div>
     <ul class="output-list">
-        <li><span class="status-tag">R&R</span> Draft Paper: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" <span class="venue"></span>.</li>
+        <li><span class="status-tag">Accepted</span> Journal Article: "Foundational vs. Functional: Competing Logics of Digital Sovereignty" <span class="venue">International Affairs</span>.</li>
         <li><span class="status-tag">Published</span> Journal Article: "The Openness Paradox: Open-source AI and China's Quest for Cyber Sovereignty" (<span class="venue">Dialogues on Digital Society</span>, 2025).</li>
         <li><span class="status-tag">Presentations</span> Findings presented at <strong>GigaNet</strong> (2025), <strong>IPSA</strong> (2025), and <strong>ECPR</strong> (2025).</li>
     </ul>

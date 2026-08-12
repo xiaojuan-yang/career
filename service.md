@@ -44,6 +44,9 @@ layout: null
 <h2>Academic Service</h2>
 <ul class="dense-list">
     <li>
+        <span class="role-title">Keynote Speaker</span>, 20th anniversary of EuroSSIG <span class="date-right">Aug 2026</span>
+    </li>
+    <li>
         <span class="role-title">Guest Lecturer</span>, "Geopoliticas of Digital Sovereignty", Swing Internet Governance School, Bruge, United Nations University, Beilgium <span class="date-right">April 2026</span>
     </li>
     <li>

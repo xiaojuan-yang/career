@@ -47,11 +47,11 @@ layout: null
 
 <h1>Publications</h1>
 
-<h2>Under Review & Working Papers</h2>
+<h2>Accepted</h2>
 <ul class="pub-list">
     <li class="pub-item">
         <span class="status-tag tag-rr">R&R</span>
-        <strong>Yang, G. X.</strong> "Foundational vs. Functional: Competing Logics of Digital Sovereignty." Revise and Resubmit <span class="venue"></span>.
+        <strong>Yang, G. X.</strong> "Foundational vs. Functional: Competing Logics of Digital Sovereignty." <span class="venue"></span>.
     </li>
 </ul>
 
