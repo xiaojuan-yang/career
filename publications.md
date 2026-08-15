@@ -47,11 +47,11 @@ layout: null
 
 <h1>Publications</h1>
 
-<h2>Accepted</h2>
+<h2>Working Papers</h2>
 <ul class="pub-list">
     <li class="pub-item">
-        <span class="status-tag tag-rr">R&R</span>
-        <strong>Yang, G. X.</strong> "Foundational vs. Functional: Competing Logics of Digital Sovereignty." <span class="venue"></span>.
+        <span class="status-tag tag-rr">Accepted</span>
+        <strong>Yang, G. X.</strong> "Foundational vs. Functional: Competing Logics of Digital Sovereignty." by<span class="venue">International Affairs</span>.
     </li>
 </ul>
 
